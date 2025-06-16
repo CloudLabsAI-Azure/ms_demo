@@ -9,7 +9,7 @@ This demo showcases how Modern Analytics in MIDP and Azure OpenAI Service can re
 > Provisioning ODL user access may take **5 to 7 minutes**.  
 > If you receive unauthorized error messages on any resources, wait for a few minutes and then hard refresh (`Ctrl + Shift + R`) the page.
 
-# Azure and Microsoft Fabric Login Credentials
+## Azure and Microsoft Fabric Login Credentials
 
 1. **Email/Username:** <inject key="AzureAdUserEmail"></inject>
 2. **Password:** <inject key="AzureAdUserPassword"></inject>
@@ -18,7 +18,7 @@ This demo showcases how Modern Analytics in MIDP and Azure OpenAI Service can re
 ### Healthcare 2.0 WebApp
 **URL:** [https://app-health-care-demo-v2prod.azurewebsites.net/](https://app-health-care-demo-v2prod.azurewebsites.net/)
 
-## Microsoft Fabric Workspace
+### Microsoft Fabric Workspace
 **Link:** [https://app.powerbi.com/groups/9e83dec4-28ba-480d-920e-09b24bfd475a/list?experience=power-bi](https://app.powerbi.com/groups/9e83dec4-28ba-480d-920e-09b24bfd475a/list?experience=power-bi)
 
  
