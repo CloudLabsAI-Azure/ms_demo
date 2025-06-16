@@ -11,14 +11,14 @@ This comprehensive demonstration highlights:
 
 ---
 
-## 🔑 Authentication Credentials
+## 🔑 Microsoft Fabric / Azure Authentication Credentials
 
 | Field | Value |
 |-------|-------|
 | **👤 Email** | `<inject key="AzureAdUserEmail"></inject>` |
 | **🔐 Password** | `<inject key="AzureAdUserPassword"></inject>` |
 
-## 👥 Teams Credentials
+## 👥 Microsoft Teams Credentials
 
 | Field | Value |
 |-------|-------|

@@ -13,7 +13,7 @@ These technologies work together to **accelerate clinical analysis**, **improve 
 
 ---
 
-## 🔑 Authentication Credentials
+## 🔑 Microsoft Fabric / Azure Authentication Credentials
 
 | Field | Value |
 |-------|-------|
