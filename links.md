@@ -4,23 +4,30 @@ This demo showcases how Modern Analytics in MIDP and Azure OpenAI Service can re
 
 This comprehensive demonstration leverages the trusted and integrated capabilities of **Microsoft Cloud for Healthcare** to:
 
-- 🔍 **Manage health data at scale** • 🤖 **Apply machine learning and AI automation** • ⚡ **Deploy easy-to-use AI tools for efficiency** • 🔄 **Implement workflows specifically designed for health data**
+- 🔍 **Manage health data at scale**
+- 🤖 **Apply machine learning and AI automation**
+- ⚡ **Deploy easy-to-use AI tools for efficiency**
+- 🔄 **Implement workflows specifically designed for health data**
 
 These technologies work together to **accelerate clinical analysis**, **improve patient engagement**, and **accelerate data value**.
 
 ---
 
-### 🔑 Authentication Credentials
+## 🔑 Authentication Credentials
 
-<div style="background-color: #e3f2fd; border-left: 4px solid #2196f3; padding: 15px; margin: 20px 0;">
-  <h4 style="margin-top: 0;">Azure and Microsoft Fabric Login</h4>
-  <p style="margin: 5px 0; font-size: 14px;"><strong>👤 Email:</strong> <code>&lt;inject key="AzureAdUserEmail"&gt;&lt;/inject&gt;</code></p>
-  <p style="margin: 5px 0; font-size: 14px;"><strong>🔐 Password:</strong> <code>&lt;inject key="AzureAdUserPassword"&gt;&lt;/inject&gt;</code></p>
+<div style="background-color: #f8f9fa; border: 2px solid #007acc; border-radius: 8px; padding: 20px; margin: 20px 0;">
+  <h3 style="margin: 0 0 15px 0; color: #007acc;">Azure and Microsoft Fabric Login</h3>
+  <div style="display: grid; grid-template-columns: auto 1fr; gap: 10px 15px; align-items: center;">
+    <span style="font-weight: bold; color: #333;">👤 Email:</span>
+    <code style="background-color: #e9ecef; padding: 8px 12px; border-radius: 4px; font-family: monospace;">&lt;inject key="AzureAdUserEmail"&gt;&lt;/inject&gt;</code>
+    <span style="font-weight: bold; color: #333;">🔐 Password:</span>
+    <code style="background-color: #e9ecef; padding: 8px 12px; border-radius: 4px; font-family: monospace;">&lt;inject key="AzureAdUserPassword"&gt;&lt;/inject&gt;</code>
+  </div>
 </div>
 
 ---
 
-### 🌐 Primary Demo Resources
+## 🌐 Primary Demo Resources
 
 <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 15px; margin: 15px 0;">
 
@@ -87,7 +94,7 @@ These technologies work together to **accelerate clinical analysis**, **improve 
 
 ---
 
-### 📋 Pro Tips
+## 📋 Pro Tips
 
 <div style="background-color: #e8f4fd; border: 1px solid #bee5eb; border-radius: 8px; padding: 12px; margin: 15px 0;">
   <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 15px;">
