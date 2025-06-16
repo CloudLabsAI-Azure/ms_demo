@@ -1,4 +1,4 @@
-# 🏥 Data & AI Healthcare Industry Scenario DREAM Demo 2.0
+# Data & AI Healthcare Industry Scenario DREAM Demo 2.0
 
 This demo showcases how Modern Analytics in MIDP and Azure OpenAI Service can revolutionize the healthcare industry. The demo includes healthcare use cases and Payor scenarios, such as Call Center report analysis, transcript improvisation, and Member experience.
 
