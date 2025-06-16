@@ -1,5 +1,6 @@
 # Data & AI Healthcare Industry Scenario DREAM Demo 2.0
 
+#
 ## Description
 
 This demo showcases how Modern Analytics in MIDP and Azure OpenAI Service can revolutionize the healthcare industry. The demo includes some healthcare use cases as well as some Payor scenarios, such as Call Center report analysis, transcript improvisation, and Member experience. Furthermore, we have trusted and integrated capabilities of Microsoft Cloud for Healthcare to manage health data at scale, apply machine learning, easy to deploy AI tools that deliver automation and efficiency, and workflows specifically designed for health data. In combination, these technologies accelerate clinical analysis, improve patient engagement, and accelerate data value.
@@ -12,9 +13,9 @@ This demo showcases how Modern Analytics in MIDP and Azure OpenAI Service can re
 ---
 
 ## Azure and Microsoft Fabric Login Credentials
-
-1. **Email/Username:** `<inject key="AzureAdUserEmail"></inject>`  
-2. **Password:** `<inject key="AzureAdUserPassword"></inject>`
+#
+1. **Email/Username:** <inject key="AzureAdUserEmail"></inject> 
+2. **Password:** <inject key="AzureAdUserPassword"></inject>
 
 ---
 
