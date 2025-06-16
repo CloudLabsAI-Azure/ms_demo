@@ -15,15 +15,15 @@ This comprehensive demonstration highlights:
 
 | Field | Value |
 |-------|-------|
-| **👤 Email** | `<inject key="AzureAdUserEmail"></inject>` |
-| **🔐 Password** | `<inject key="AzureAdUserPassword"></inject>` |
+| **👤 Email** | <inject key="AzureAdUserEmail"></inject> |
+| **🔐 Password** | <inject key="AzureAdUserPassword"></inject> |
 
 ## 👥 Microsoft Teams Credentials
 
 | Field | Value |
 |-------|-------|
-| **👤 Username** | `<inject key="Teams Login UserName"></inject>` |
-| **🔐 Password** | `<inject key="Teams Login Password"></inject>` |
+| **👤 Username** | <inject key="Teams Login UserName"></inject> |
+| **🔐 Password** | <inject key="Teams Login Password"></inject> |
 
 ---
 

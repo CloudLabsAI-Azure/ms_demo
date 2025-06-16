@@ -17,8 +17,8 @@ These technologies work together to **accelerate clinical analysis**, **improve 
 
 | Field | Value |
 |-------|-------|
-| **👤 Email** | `<inject key="AzureAdUserEmail"></inject>` |
-| **🔐 Password** | `<inject key="AzureAdUserPassword"></inject>` |
+| **👤 Email** | <inject key="AzureAdUserEmail"></inject> |
+| **🔐 Password** | <inject key="AzureAdUserPassword"></inject> |
 
 ---
 
