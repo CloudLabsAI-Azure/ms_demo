@@ -13,19 +13,17 @@ This comprehensive demonstration highlights:
 
 ## 🔑 Authentication Credentials
 
-<div style="background-color: #f8f9fa; border: 2px solid #007acc; border-radius: 8px; padding: 20px; margin: 20px 0;">
-  <h3 style="margin: 0 0 15px 0; color: #007acc;">Azure and Microsoft Fabric Login</h3>
-  <p style="margin: 8px 0;"><strong>👤 Email:</strong> <code style="background-color: #e9ecef; padding: 6px 10px; border-radius: 4px; font-family: monospace;">&lt;inject key="AzureAdUserEmail"&gt;&lt;/inject&gt;</code></p>
-  <p style="margin: 8px 0;"><strong>🔐 Password:</strong> <code style="background-color: #e9ecef; padding: 6px 10px; border-radius: 4px; font-family: monospace;">&lt;inject key="AzureAdUserPassword"&gt;&lt;/inject&gt;</code></p>
-</div>
+| Field | Value |
+|-------|-------|
+| **👤 Email** | `<inject key="AzureAdUserEmail"></inject>` |
+| **🔐 Password** | `<inject key="AzureAdUserPassword"></inject>` |
 
 ## 👥 Teams Credentials
 
-<div style="background-color: #f0f8ff; border: 2px solid #6264a7; border-radius: 8px; padding: 20px; margin: 20px 0;">
-  <h3 style="margin: 0 0 15px 0; color: #6264a7;">Microsoft Teams Login</h3>
-  <p style="margin: 8px 0;"><strong>👤 Username:</strong> <code style="background-color: #e9ecef; padding: 6px 10px; border-radius: 4px; font-family: monospace;">&lt;inject key="Teams Login UserName"&gt;&lt;/inject&gt;</code></p>
-  <p style="margin: 8px 0;"><strong>🔐 Password:</strong> <code style="background-color: #e9ecef; padding: 6px 10px; border-radius: 4px; font-family: monospace;">&lt;inject key="Teams Login Password"&gt;&lt;/inject&gt;</code></p>
-</div>
+| Field | Value |
+|-------|-------|
+| **👤 Username** | `<inject key="Teams Login UserName"></inject>` |
+| **🔐 Password** | `<inject key="Teams Login Password"></inject>` |
 
 ---
 
