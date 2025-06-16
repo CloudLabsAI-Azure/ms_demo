@@ -17,12 +17,8 @@ These technologies work together to **accelerate clinical analysis**, **improve 
 
 <div style="background-color: #f8f9fa; border: 2px solid #007acc; border-radius: 8px; padding: 20px; margin: 20px 0;">
   <h3 style="margin: 0 0 15px 0; color: #007acc;">Azure and Microsoft Fabric Login</h3>
-  <div style="display: grid; grid-template-columns: auto 1fr; gap: 10px 15px; align-items: center;">
-    <span style="font-weight: bold; color: #333;">👤 Email:</span>
-    <code style="background-color: #e9ecef; padding: 8px 12px; border-radius: 4px; font-family: monospace;">&lt;inject key="AzureAdUserEmail"&gt;&lt;/inject&gt;</code>
-    <span style="font-weight: bold; color: #333;">🔐 Password:</span>
-    <code style="background-color: #e9ecef; padding: 8px 12px; border-radius: 4px; font-family: monospace;">&lt;inject key="AzureAdUserPassword"&gt;&lt;/inject&gt;</code>
-  </div>
+  <p style="margin: 8px 0;"><strong>👤 Email:</strong> <code style="background-color: #e9ecef; padding: 6px 10px; border-radius: 4px; font-family: monospace;">&lt;inject key="AzureAdUserEmail"&gt;&lt;/inject&gt;</code></p>
+  <p style="margin: 8px 0;"><strong>🔐 Password:</strong> <code style="background-color: #e9ecef; padding: 6px 10px; border-radius: 4px; font-family: monospace;">&lt;inject key="AzureAdUserPassword"&gt;&lt;/inject&gt;</code></p>
 </div>
 
 ---
