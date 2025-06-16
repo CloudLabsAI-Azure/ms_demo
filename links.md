@@ -13,7 +13,7 @@ These technologies work together to **accelerate clinical analysis**, **improve 
 
 ---
 
-## 🔑 Microsoft Fabric / Azure Authentication Credentials
+### 🔑 Microsoft Fabric / Azure Authentication Credentials
 
 | Field | Value |
 |-------|-------|
@@ -23,18 +23,18 @@ These technologies work together to **accelerate clinical analysis**, **improve 
 ---
 
 
-## 🔗 Demo Resource Links – Data & AI Healthcare Industry Scenario
+### 🔗 Demo Resource Links – Data & AI Healthcare Industry Scenario
 
-| Resource Name                    | Link |
-|----------------------------------|------|
-| **Healthcare 2.0 WebApp**        | [Open WebApp](https://app-health-care-demo-v2prod.azurewebsites.net/) |
-| **Microsoft Fabric Workspace**   | [Open Workspace](https://app.powerbi.com/groups/9e83dec4-28ba-480d-920e-09b24bfd475a/list?experience=power-bi) |
-| **Azure Synapse Analytics**      | [Open Synapse](https://web.azuresynapse.net/en/home?workspace=%2Fsubscriptions%2F506e86fc-853c-4557-a6e5-ad72114efd2b%2FresourceGroups%2Frg-healthcare2-prod%2Fproviders%2FMicrosoft.Synapse%2Fworkspaces%2Fsynhealthcare2prod) |
-| **Azure Cosmos DB**              | [Open Cosmos DB](https://portal.azure.com/#@CloudLabsAIoutlook.onmicrosoft.com/resource/subscriptions/506e86fc-853c-4557-a6e5-ad72114efd2b/resourceGroups/rg-healthcare2-prod/providers/Microsoft.DocumentDB/databaseAccounts/cosmos-healthcare2-prod/dataExplorer) |
-| **Azure ML Workspace**          | [Open ML Studio](https://ml.azure.com/?tid=f94768c8-8714-4abe-8e2d-37a64b18216a&wsid=/subscriptions/506e86fc-853c-4557-a6e5-ad72114efd2b/resourcegroups/rg-healthcare2-prod/providers/Microsoft.MachineLearningServices/workspaces/mlw-healthcare2-prod) |
-| **Azure Databricks**            | [Open Databricks](https://adb-6711778118362600.0.azuredatabricks.net/?o=6711778118362600#) |
-| **Microsoft Purview**           | [Open Purview](https://web.purview.azure.com/resource/purviewhealthcare2prod/main/catalog/home?feature.tenant=f94768c8-8714-4abe-8e2d-37a64b18216a) |
-| **Event Hub**                   | [Open Event Hub](https://portal.azure.com/#@CloudLabsAIoutlook.onmicrosoft.com/resource/subscriptions/506e86fc-853c-4557-a6e5-ad72114efd2b/resourceGroups/rg-healthcare2-prod/providers/Microsoft.EventHub/namespaces/evh-patient-monitoring-prod/overview) |
+| Resource Name                            | Link           |
+|------------------------------------------|----------------|
+| **Healthcare 2.0 WebApp**                | [Open WebApp](https://app-health-care-demo-v2prod.azurewebsites.net/) |
+| **Microsoft Fabric Workspace**           | [Open Workspace](https://app.powerbi.com/groups/9e83dec4-28ba-480d-920e-09b24bfd475a/list?experience=power-bi) |
+| **Azure Synapse Analytics**              | [Open Synapse](https://web.azuresynapse.net/en/home?workspace=%2Fsubscriptions%2F506e86fc-853c-4557-a6e5-ad72114efd2b%2FresourceGroups%2Frg-healthcare2-prod%2Fproviders%2FMicrosoft.Synapse%2Fworkspaces%2Fsynhealthcare2prod) |
+| **Azure Cosmos DB**                      | [Open Cosmos DB](https://portal.azure.com/#@CloudLabsAIoutlook.onmicrosoft.com/resource/subscriptions/506e86fc-853c-4557-a6e5-ad72114efd2b/resourceGroups/rg-healthcare2-prod/providers/Microsoft.DocumentDB/databaseAccounts/cosmos-healthcare2-prod/dataExplorer) |
+| **Azure ML Workspace**                   | [Open ML Studio](https://ml.azure.com/?tid=f94768c8-8714-4abe-8e2d-37a64b18216a&wsid=/subscriptions/506e86fc-853c-4557-a6e5-ad72114efd2b/resourcegroups/rg-healthcare2-prod/providers/Microsoft.MachineLearningServices/workspaces/mlw-healthcare2-prod) |
+| **Azure Databricks**                     | [Open Databricks](https://adb-6711778118362600.0.azuredatabricks.net/?o=6711778118362600#) |
+| **Microsoft Purview**                    | [Open Purview](https://web.purview.azure.com/resource/purviewhealthcare2prod/main/catalog/home?feature.tenant=f94768c8-8714-4abe-8e2d-37a64b18216a) |
+| **Event Hub**                            | [Open Event Hub](https://portal.azure.com/#@CloudLabsAIoutlook.onmicrosoft.com/resource/subscriptions/506e86fc-853c-4557-a6e5-ad72114efd2b/resourceGroups/rg-healthcare2-prod/providers/Microsoft.EventHub/namespaces/evh-patient-monitoring-prod/overview) |
 
 ---
 
