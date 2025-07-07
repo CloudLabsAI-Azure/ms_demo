@@ -51,7 +51,7 @@
     <li>Manage health data at scale.</li>
     <li>Apply machine learning and AI automation.</li>
     <li>Deploy easy-to-use AI tools for efficiency.</li>
-    <li>Implement workflows specifically designed for health data</li><br>
+    <li>Implement workflows specifically designed for health data</li>
     <li>These technologies work together to <strong>accelerate clinical analysis</strong>, <strong>improve patient engagement</strong>, and <strong>accelerate data value</strong>.</li>
   </ul>
 </div>
