@@ -60,11 +60,8 @@
 |-----------------|---------------------------------------|
 | Username    | <inject key="AzureAdUserEmail" />     |
 | Password   | <inject key="AzureAdUserPassword" />  |
-
-| **Teams User Login Credentials** |                                       |
-|-----------------|---------------------------------------|
-| Teams Login UserName    | DemoUser1@CloudLabsAIoutlook.onmicrosoft.com   |
-| Teams Login Password   | Demou$e673&Fhj  |
+| Teams Login UserName    | <inject key="Teams Login UserName" />   |
+| Teams Login Password   | <inject key="Teams Login Password" />  |
 
 
 <!-- Resource Details Table -->
