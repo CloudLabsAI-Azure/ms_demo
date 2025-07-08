@@ -77,7 +77,7 @@
   </thead>
   <tbody>
     <tr>
-      <td>Web App Link</td>
+      <td>Web App</td>
       <td>
         <a href="https://app-aidw-telco-prod.azurewebsites.net/" target="_blank">
           https://app-aidw-telco-prod.azurewebsites.net/
