@@ -43,7 +43,7 @@
 </style>
 
 <div class="description">
-  <h2 style="color: #333;">📄 Description</h2>
+  <h2 style="color: #333;">📄 Description</h2><br>
   <p>
     This Demo offers a practical experience into the backend of the AIDW Telecom DREAM Demo featuring Agentic AI. The demo highlights how Contoso, a leading telecom provider, revolutionized its customer service operations using a multi-agent Azure AI solution that handles customer calls related to billing issues, network problems, and plan inquiries.<br>
     The solution is powered by a multi-agent architecture comprising five specialized Azure AI Agents, built with the Azure AI Foundry SDK and orchestrated using Microsoft AutoGen 0.4. These agents are equipped with tools to perform create, read, update, and delete (CRUD) operations on customer data stored in Azure Cosmos DB. Leveraging the natural language and generative AI capabilities of the GPT-4o model via Azure OpenAI Service, the agents offer intelligent, conversational support. <br>
