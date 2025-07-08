@@ -60,11 +60,8 @@
 |-----------------|---------------------------------------|
 | Username    | <inject key="AzureAdUserEmail" />     |
 | Password   | <inject key="AzureAdUserPassword" />  |
-
-| **Teams User Login Credentials** |                                       |
-|-----------------|---------------------------------------|
-| Teams Login UserName    | DemoUser1@CloudLabsAIoutlook.onmicrosoft.com   |
-| Teams Login Password   | Demou$e673&Fhj  |
+| Teams Login UserName    | <inject key="Teams Login UserName" /> |
+| Teams Login Password   | <inject key="Teams Login Password" />  |
 
 
 <!-- Resource Details Table -->
@@ -77,7 +74,7 @@
   </thead>
   <tbody>
     <tr>
-      <td>Web App Link</td>
+      <td>Web App</td>
       <td>
         <a href="https://app-fabric-demo-3-rti-prod.azurewebsites.net/" target="_blank">
           https://app-fabric-demo-3-rti-prod.azurewebsites.net/
