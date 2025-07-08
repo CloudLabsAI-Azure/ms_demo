@@ -1,6 +1,6 @@
 [
   {
-    "Name": "Microsoft Fabric DREAM Demo for SMB",
+    "Name": "Real-Time Intelligence Microsoft Fabric Snackable DREAM Demo",
     "Language": "English",
     "BaseURL": "https://github.com/CloudLabsAI-Azure/ms_demo",
     "Files": [
