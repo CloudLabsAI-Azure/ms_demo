@@ -5,7 +5,7 @@
     "BaseURL": "https://github.com/CloudLabsAI-Azure/ms_demo",
     "Files": [
       {
-        "RawFilePath": "https://raw.githubusercontent.com/CloudLabsAI-Azure/ms_demo/Microsoft-Fabric,-AzureAI-and-Retail-Data-Solutions-Fabric-DREAM-Demo/refs/heads/main/links.md",
+        "RawFilePath": "https://raw.githubusercontent.com/CloudLabsAI-Azure/ms_demo/refs/heads/main/Microsoft%20Fabric%20%2B%20Azure%20Databricks%20DREAM%20Demo%202.0%20with%20Unity%20Catalog/links.md",
         "Order": 0
       }
     ]
