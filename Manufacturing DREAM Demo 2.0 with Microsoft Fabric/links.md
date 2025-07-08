@@ -43,9 +43,7 @@
 <div class="description">
   <h2 style="color: #333;">📄 Description</h2>
   <p>
-    Experience the Manufacturing DREAM Demo 2.0 with Microsoft Fabric! Witness the potential for transformation in the Manufacturing Industry. Leveraging a lake-centric and open architecture to enhance IoT and address key challenges such as departmental silos, data duplication, and frequent data movements. 
-
-    This empowers the team Contoso to make informed decisions and implement effective interventions to overcome the influencing factors behind challenges.
+    Experience the Manufacturing DREAM Demo 2.0 with Microsoft Fabric! Witness the potential for transformation in the Manufacturing Industry. Leveraging a lake-centric and open architecture to enhance IoT and address key challenges such as departmental silos, data duplication, and frequent data movements.<br><br> This empowers the team Contoso to make informed decisions and implement effective interventions to overcome the influencing factors behind challenges.
   </p>
 </div>
 
@@ -58,15 +56,12 @@
 
 <!-- Auth Table -->
 
-| **User Login Credentials** |                                       |
+| **User Login Credentials** |                            |
 |-----------------|---------------------------------------|
 | Username    | <inject key="AzureAdUserEmail" />     |
 | Password   | <inject key="AzureAdUserPassword" />  |
-
-| **Teams User Login Credentials** |                                       |
-|-----------------|---------------------------------------|
-| Teams Login UserName    | DemoUser1@CloudLabsAIoutlook.onmicrosoft.com   |
-| Teams Login Password   | Demou$e673&Fhj  |
+| Teams Login Username | <inject key="Teams Login UserName" /> |
+| Teams Login Password | <inject key="Teams Login Password" /> |
 
 
 <!-- Resource Details Table -->
