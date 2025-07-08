@@ -75,7 +75,7 @@
       <td>Web App</td>
       <td>
         <a href="https://app-fabric-azure-databricks-demo.azurewebsites.net" target="_blank">
-          https://app-sustainability-dream-demo.azurewebsites.net/
+          https://app-fabric-azure-databricks-demo.azurewebsites.net/
         </a>
       </td>
     </tr>
