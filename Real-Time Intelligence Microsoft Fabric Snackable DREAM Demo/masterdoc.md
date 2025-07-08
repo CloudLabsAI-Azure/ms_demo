@@ -5,7 +5,7 @@
     "BaseURL": "https://github.com/CloudLabsAI-Azure/ms_demo",
     "Files": [
       {
-        "RawFilePath": "https://raw.githubusercontent.com/CloudLabsAI-Azure/ms_demo/Microsoft-Fabric,-AzureAI-and-Retail-Data-Solutions-Fabric-DREAM-Demo/refs/heads/main/links.md",
+        "RawFilePath": "https://raw.githubusercontent.com/CloudLabsAI-Azure/ms_demo/refs/heads/main/Real-Time%20Intelligence%20Microsoft%20Fabric%20Snackable%20DREAM%20Demo/links.md",
         "Order": 0
       }
     ]
