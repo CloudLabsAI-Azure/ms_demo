@@ -5,7 +5,7 @@
     "BaseURL": "https://github.com/CloudLabsAI-Azure/ms_demo",
     "Files": [
       {
-        "RawFilePath": "https://raw.githubusercontent.com/CloudLabsAI-Azure/ms_demo/aidw-telco-featuring-agentic-ai/refs/heads/main/links.md",
+        "RawFilePath": "https://raw.githubusercontent.com/CloudLabsAI-Azure/ms_demo/refs/heads/main/aidw-telco-featuring-agentic-ai/links.md",
         "Order": 0
       }
     ]
