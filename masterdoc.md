@@ -2,10 +2,10 @@
   {
     "Name": "Microsoft Fabric 4.0 DREAM Demo",
     "Language": "English",
-    "BaseURL": "https://github.com/CloudLabsAI-Azure/Data-AI-Healthcare-Industry-Scenario-DREAM-Demo-2.0",
+    "BaseURL": "https://github.com/CloudLabsAI-Azure/ms_demo",
     "Files": [
       {
-        "RawFilePath": "https://raw.githubusercontent.com/CloudLabsAI-Azure/Data-AI-Healthcare-Industry-Scenario-DREAM-Demo-2.0/refs/heads/main/links.md",
+        "RawFilePath": "https://raw.githubusercontent.com/CloudLabsAI-Azure/ms_demo/refs/heads/main/links.md",
         "Order": 0
       }
     ]
