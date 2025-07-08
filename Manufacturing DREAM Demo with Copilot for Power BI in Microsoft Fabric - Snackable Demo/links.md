@@ -72,7 +72,7 @@
   </thead>
   <tbody>
     <tr>
-      <td>Click-by-Click Link</td>
+      <td>Click-by-Click</td>
       <td>
         <a href="https://regale.cloud/Microsoft/viewer/3010/copilot-for-power-bi-in-microsoft-fabric-manufacturing-hmi-dream-demo-full-demo/index.html#/0/0" target="_blank">
           https://regale.cloud/Microsoft/viewer/3010/copilot-for-power-bi-in-microsoft-fabric-manufacturing-hmi-dream-demo-full-demo/index.html#/0/0
