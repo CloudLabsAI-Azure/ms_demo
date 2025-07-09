@@ -45,7 +45,7 @@
 <div class="description">
   <h2 style="color: #333;">📄 Description</h2>
   <p>
-    Design your own DREAM Demo using Configurable Copilot in Microsoft Fabric. With Configurable DREAM Demos, you can easily clone an existing DREAM Demo template (industry and/or customer specific) and start painting it for your customer specific needs. This demo is designed to help you customize presentations for different industries and/or customers, craft your own data, and generate reports using Copilot in Microsoft Fabric.
+    This demo showcases the power of Azure Synapse Analytics, Azure Purview, Cosmos DB with Azure Synapse Link, Power BI, AI/ML, Power Apps and Azure Data Explorer. The core focus is to demonstrate how our data and AI can empower retail sector organizations to improve customer insights, enhance customer experience and improve operational efficiency.
   </p>
 </div>
 
