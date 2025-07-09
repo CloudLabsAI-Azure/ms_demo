@@ -62,11 +62,8 @@
 |-----------------|---------------------------------------|
 | Username    | <inject key="AzureAdUserEmail" />     |
 | Password   | <inject key="AzureAdUserPassword" />  |
-
-| **Ai Resources Login Credentials** |                                       |
-|-----------------|---------------------------------------|
-| Ai Resources Username    | retail-ai-reader-user@cloudlabsai.ms     |
-| Ai Resources Password   | 56tzkOS9@$FERBGH  |
+| AI Resources Username   | <inject key="AI Resources Username" />  |
+| AI Resources Password   | <inject key="AI Resources Password" />  |
 
 
 <!-- Resource Details Table -->
@@ -79,7 +76,7 @@
   </thead>
   <tbody>
     <tr>
-      <td>Web App Link</td>
+      <td>Web App</td>
       <td>
         <a href="https://app-retaildemo-prod.azurewebsites.net/" target="_blank">
           https://app-retaildemo-prod.azurewebsites.net/
@@ -103,7 +100,7 @@
       </td>
     </tr>
     <tr>
-      <td>Customer Insights URL</td>
+      <td>Customer Insights</td>
       <td>
         <a href="https://home.ci.ai.dynamics.com/app/home?instanceId=f1c61041-542a-4056-9f09-0c4992ccf773" target="_blank">
           https://home.ci.ai.dynamics.com/app/home?instanceId=f1c61041-542a-4056-9f09-0c4992ccf773
@@ -111,7 +108,7 @@
       </td>
     </tr>
     <tr>
-      <td>Azure Synapse Analytics URL</td>
+      <td>Azure Synapse Analytics</td>
       <td>
         <a href="https://web.azuresynapse.net/en-us/home?workspace=%2Fsubscriptions%2F506e86fc-853c-4557-a6e5-ad72114efd2b%2FresourceGroups%2FRetail2.0-Prod%2Fproviders%2FMicrosoft.Synapse%2Fworkspaces%2Fsynretailprod&relativePath=home" target="_blank">
           https://web.azuresynapse.net/en-us/home?workspace=%2Fsubscriptions%2F506e86fc-853c-4557-a6e5-ad72114efd2b%2FresourceGroups%2FRetail2.0-Prod%2Fproviders%2FMicrosoft.Synapse%2Fworkspaces%2Fsynretailprod&relativePath=home
@@ -119,7 +116,7 @@
       </td>
     </tr>
     <tr>
-      <td>Azure Data Explorer URL</td>
+      <td>Azure Data Explorer</td>
       <td>
         <a href="https://dataexplorer.azure.com/clusters/retaildataexplorer.synretailprod/databases/RetailDB" target="_blank">
           https://dataexplorer.azure.com/clusters/retaildataexplorer.synretailprod/databases/RetailDB
@@ -127,7 +124,7 @@
       </td>
     </tr>
     <tr>
-      <td>Azure Cosmos DB URL</td>
+      <td>Azure Cosmos DB</td>
       <td>
         <a href="https://web.azuresynapse.net/en-us/authoring/explore/storageaccounts/synretailprod-WorkspaceDefaultStorage-stretailprod%2Fretailsynproddbbackup?subFolderPath=&workspace=%2Fsubscriptions%2F506e86fc-853c-4557-a6e5-ad72114efd2b%2FresourceGroups%2FRetail2.0-Prod%2Fproviders%2FMicrosoft.Synapse%2Fworkspaces%2Fsynretailprod" target="_blank">
           https://web.azuresynapse.net/en-us/authoring/explore/storageaccounts/synretailprod-WorkspaceDefaultStorage-stretailprod%2Fretailsynproddbbackup?subFolderPath=&workspace=%2Fsubscriptions%2F506e86fc-853c-4557-a6e5-ad72114efd2b%2FresourceGroups%2FRetail2.0-Prod%2Fproviders%2FMicrosoft.Synapse%2Fworkspaces%2Fsynretailprod
@@ -135,7 +132,7 @@
       </td>
     </tr>
     <tr>
-      <td>Azure PURVIEW URL</td>
+      <td>Azure PURVIEW</td>
       <td>
         <a href="https://web.purview.azure.com/resource/purviewretailprod?feature.tenant=f94768c8-8714-4abe-8e2d-37a64b18216a" target="_blank">
           https://web.purview.azure.com/resource/purviewretailprod?feature.tenant=f94768c8-8714-4abe-8e2d-37a64b18216a
@@ -143,7 +140,7 @@
       </td>
     </tr>
     <tr>
-      <td>Power Apps URL</td>
+      <td>Power Apps</td>
       <td>
         <a href="https://apps.powerapps.com/play/3de6c2f6-75b5-4877-a209-7fb8e27240a8?tenantId=f94768c8-8714-4abe-8e2d-37a64b18216a" target="_blank">
           https://apps.powerapps.com/play/3de6c2f6-75b5-4877-a209-7fb8e27240a8?tenantId=f94768c8-8714-4abe-8e2d-37a64b18216a
