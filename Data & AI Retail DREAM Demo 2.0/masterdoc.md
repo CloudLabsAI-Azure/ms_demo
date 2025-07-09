@@ -1,6 +1,6 @@
 [
   {
-    "Name": "Microsoft Fabric DREAM Demo for SMB",
+    "Name": "Data & AI Retail DREAM Demo 2.0",
     "Language": "English",
     "BaseURL": "https://github.com/CloudLabsAI-Azure/ms_demo",
     "Files": [
