@@ -74,8 +74,8 @@
     <tr>
       <td>Web App</td>
       <td>
-        <a href="https://app-sustainability-dream-demo.azurewebsites.net/" target="_blank">
-          https://app-sustainability-dream-demo.azurewebsites.net/
+        <a href="https://app-azureherodreamdemos.azurewebsites.net/" target="_blank">
+          https://app-azureherodreamdemos.azurewebsites.net/
         </a>
       </td>
     </tr>
@@ -88,10 +88,10 @@
     </td>
     </tr>
     <tr>
-    <td>Azure Storage Account</td>
+    <td>Azure AI Foundry</td>
     <td>
-        <a href="https://portal.azure.com/#@CloudLabsAIoutlook.onmicrosoft.com/resource/subscriptions/506e86fc-853c-4557-a6e5-ad72114efd2b/resourceGroups/rg-sustainability2.0-demo-prod/providers/Microsoft.Storage/storageAccounts/stsustainability2prod/containersList" target="_blank">
-          https://portal.azure.com/#@CloudLabsAIoutlook.onmicrosoft.com/resource/subscriptions/506e86fc-853c-4557-a6e5-ad72114efd2b/resourceGroups/rg-sustainability2.0-demo-prod/providers/Microsoft.Storage/storageAccounts/stsustainability2prod/containersList
+        <a href="https://ai.azure.com/?tid=f94768c8-8714-4abe-8e2d-37a64b18216a" target="_blank">
+          https://ai.azure.com/?tid=f94768c8-8714-4abe-8e2d-37a64b18216a
         </a>
     </td>
     </tr>
