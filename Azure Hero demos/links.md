@@ -82,13 +82,13 @@
     <tr>
     <td>Azure AI Foundry</td>
     <td>
-        <a href="https://ai.azure.com/?tid=f94768c8-8714-4abe-8e2d-37a64b18216a" target="_blank">
-          https://ai.azure.com/?tid=f94768c8-8714-4abe-8e2d-37a64b18216a
+        <a href="https://ai.azure.com/foundryProject/overview?wsid=/subscriptions/3f01ab49-a56f-4ee7-97fa-d23155156b42/resourceGroups/rg-azurehero-demo-dev/providers/Microsoft.CognitiveServices/accounts/proj-azure-hero-demo-1a-resource/projects/proj-azure-hero-demo-1a-dev&tid=f94768c8-8714-4abe-8e2d-37a64b18216a" target="_blank">
+          https://ai.azure.com/foundryProject/overview?wsid=/subscriptions/3f01ab49-a56f-4ee7-97fa-d23155156b42/resourceGroups/rg-azurehero-demo-dev/providers/Microsoft.CognitiveServices/accounts/proj-azure-hero-demo-1a-resource/projects/proj-azure-hero-demo-1a-dev&tid=f94768c8-8714-4abe-8e2d-37a64b18216a
         </a>
     </td>
     </tr>
     <tr>
-    <td>Backend Webapp</td>
+    <td>Azure App Service</td>
     <td>
         <a href="https://portal.azure.com/#@cloudlabsai.ms/resource/subscriptions/3f01ab49-a56f-4ee7-97fa-d23155156b42/resourceGroups/rg-azurehero-demo-dev/providers/Microsoft.Web/sites/app-azureherodemos-container/appServices" target="_blank">
           https://portal.azure.com/#@cloudlabsai.ms/resource/subscriptions/3f01ab49-a56f-4ee7-97fa-d23155156b42/resourceGroups/rg-azurehero-demo-dev/providers/Microsoft.Web/sites/app-azureherodemos-container/appServices
