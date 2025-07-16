@@ -77,6 +77,7 @@
         <a href="https://app-azureherodreamdemos.azurewebsites.net/" target="_blank">
           https://app-azureherodreamdemos.azurewebsites.net/
         </a>
+        <button onclick="copyToClipboard(this)" style="margin-left: 10px;">📋</button>
       </td>
     </tr>
     <tr>
