@@ -85,12 +85,6 @@
         </button>
       </td>
     </tr>
-    <script>
-    function copyToClipboard() {
-      const link = document.getElementById('demoLink').href;
-      navigator.clipboard.writeText(link);
-    }
-    </script>
     <tr>
     <td>Azure AI Foundry</td>
     <td>
@@ -202,3 +196,15 @@
     </tr>
   </tbody>
 </table>
+
+<script>
+  document.addEventListener('DOMContentLoaded', () => {
+    document.querySelectorAll('.copy-btn').forEach(button => {
+      button.addEventListener('click', () => {
+        const link = button.parentElement.querySelector('a').href;
+        navigator.clipboard.writeText(link);
+      });
+    });
+  });
+</script>
+
