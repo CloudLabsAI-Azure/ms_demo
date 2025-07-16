@@ -77,9 +77,20 @@
         <a href="https://app-azureherodreamdemos.azurewebsites.net/" target="_blank">
           https://app-azureherodreamdemos.azurewebsites.net/
         </a>
-        <button onclick="copyToClipboard(this)" style="margin-left: 10px;">📋</button>
+        <button onclick="copyToClipboard()" style="background: none; border: none; cursor: pointer; padding-left: 10px;">
+          <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" fill="currentColor" viewBox="0 0 16 16">
+            <path d="M10 1.5A1.5 1.5 0 0 1 11.5 3v1h-1V3a.5.5 0 0 0-.5-.5h-6A.5.5 0 0 0 3.5 3v9a.5.5 0 0 0 .5.5H6v1H4a1.5 1.5 0 0 1-1.5-1.5v-9A1.5 1.5 0 0 1 4 1.5h6z"/>
+            <path d="M7 4a1 1 0 0 0-1 1v9a1 1 0 0 0 1 1h6a1 1 0 0 0 1-1V5a1 1 0 0 0-1-1H7zm0-1h6a2 2 0 0 1 2 2v9a2 2 0 0 1-2 2H7a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2z"/>
+          </svg>
+        </button>
       </td>
     </tr>
+    <script>
+    function copyToClipboard() {
+      const link = document.getElementById('demoLink').href;
+      navigator.clipboard.writeText(link);
+    }
+    </script>
     <tr>
     <td>Azure AI Foundry</td>
     <td>
