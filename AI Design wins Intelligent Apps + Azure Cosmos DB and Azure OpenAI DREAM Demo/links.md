@@ -81,14 +81,6 @@
       </td>
     </tr>
     <tr>
-    <td>Microsoft Fabric Workspace</td>
-    <td>
-        <a href="https://app.fabric.microsoft.com/home" target="_blank">
-          https://app.fabric.microsoft.com/home
-        </a>
-    </td>
-    </tr>
-    <tr>
     <td>Resource Group</td>
     <td>
       <a href="https://portal.azure.com/#@cloudlabsai.ms/resource/subscriptions/506e86fc-853c-4557-a6e5-ad72114efd2b/resourceGroups/rg-intelligent-apps-cosmos-prod/overview" target="_blank">
