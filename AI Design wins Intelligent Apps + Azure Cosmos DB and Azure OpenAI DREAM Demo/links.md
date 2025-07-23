@@ -89,19 +89,11 @@
     </td>
     </tr>
     <tr>
-    <td>Azure Databricks</td>
+    <td>Resource Group</td>
     <td>
-        <a href="https://adb-3218079371877032.12.azuredatabricks.net" target="_blank">
-          https://adb-3218079371877032.12.azuredatabricks.net
-        </a>
-    </td>
-    </tr>
-        <tr>
-    <td>Azure Cosmos DB</td>
-    <td>
-        <a href="https://portal.azure.com/#@CloudLabsAIoutlook.onmicrosoft.com/resource/subscriptions/506e86fc-853c-4557-a6e5-ad72114efd2b/resourceGroups/rg-fabric-with-databricks-prod/providers/Microsoft.DocumentDB/databaseAccounts/cosmos-fabric-databricks2-prod/overview" target="_blank">
-          https://portal.azure.com/#@CloudLabsAIoutlook.onmicrosoft.com/resource/subscriptions/506e86fc-853c-4557-a6e5-ad72114efd2b/resourceGroups/rg-fabric-with-databricks-prod/providers/Microsoft.DocumentDB/databaseAccounts/cosmos-fabric-databricks2-prod/overview
-        </a>
+      <a href="https://portal.azure.com/#@cloudlabsai.ms/resource/subscriptions/506e86fc-853c-4557-a6e5-ad72114efd2b/resourceGroups/rg-intelligent-apps-cosmos-prod/overview" target="_blank">
+          https://portal.azure.com/#@cloudlabsai.ms/resource/subscriptions/506e86fc-853c-4557-a6e5-ad72114efd2b/resourceGroups/rg-intelligent-apps-cosmos-prod/overview
+      </a>
     </td>
     </tr>
   </tbody>
