@@ -183,6 +183,14 @@
     </td>
     </tr>
     <tr>
+    <td>Microsoft Purview</td>
+    <td>
+      <a href="https://purview.microsoft.com/home?tid=f94768c8-8714-4abe-8e2d-37a64b18216a" target="_blank">
+        https://purview.microsoft.com/home?tid=f94768c8-8714-4abe-8e2d-37a64b18216a
+      </a>
+    </td>
+    </tr>
+    <tr>
     <td>Microsoft Fabric Workspace</td>
     <td>
       <a href="https://app.fabric.microsoft.com/home" target="_blank">
