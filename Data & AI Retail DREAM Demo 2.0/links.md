@@ -55,7 +55,7 @@
  ODL access provisioning may take <strong>5–7 minutes</strong>.<br>
  If unauthorized errors occur, wait a few minutes and then press <strong>Ctrl + Shift + R</strong> to refresh.<br>
  Databricks may take around <strong>30–40 minutes</strong> to become available to the ODL user. This is due to Databricks’ default behavior of syncing users every 40 minutes.<br>
- For Microsoft Fabric, once you log in with the ODL user, please wait <strong>5 minutes</strong> and refresh the screen to see the Workspaces.
+ For Microsoft Fabric, once you login with the ODL user, please wait <strong>5 minutes</strong> and refresh the screen to see the Workspaces.
 </div>
 
 <!-- Auth Table -->
