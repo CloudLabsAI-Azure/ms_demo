@@ -159,6 +159,13 @@
     </td>
     </tr>
     <tr>
+    <td>Azure AKS</td>
+    <td>
+      <a href="https://portal.azure.com/#@cloudlabsai.ms/resource/subscriptions/3f01ab49-a56f-4ee7-97fa-d23155156b42/resourceGroups/rg-herodemo-002/providers/Microsoft.ContainerService/managedClusters/aks-zava/servicesAndIngresses" target="_blank">
+        https://portal.azure.com/#@cloudlabsai.ms/resource/subscriptions/3f01ab49-a56f-4ee7-97fa-d23155156b42/resourceGroups/rg-herodemo-002/providers/Microsoft.ContainerService/managedClusters/aks-zava/servicesAndIngresses
+    </td>
+    </tr>
+    <tr>
     <td>Parts Unlimited Webapp</td>
     <td>
       <a href="https://portal.azure.com/#@cloudlabsai.ms/resource/subscriptions/3f01ab49-a56f-4ee7-97fa-d23155156b42/resourceGroups/rg-app-modernization-demo/providers/Microsoft.Web/sites/partsunlimited-web023/appServices" target="_blank">
