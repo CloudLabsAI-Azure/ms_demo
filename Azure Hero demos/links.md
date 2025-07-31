@@ -187,8 +187,8 @@
     </tr>
     <td>Azure Databricks Service</td>
     <td>
-      <a href="https://portal.azure.com/#@cloudlabsai.ms/resource/subscriptions/3f01ab49-a56f-4ee7-97fa-d23155156b42/resourceGroups/rg-azurehero-demo-dev/providers/Microsoft.Databricks/workspaces/adb-herodemo/overview" target="_blank">
-        https://portal.azure.com/#@cloudlabsai.ms/resource/subscriptions/3f01ab49-a56f-4ee7-97fa-d23155156b42/resourceGroups/rg-azurehero-demo-dev/providers/Microsoft.Databricks/workspaces/adb-herodemo/overview
+      <a href="https://adb-3978525401455147.7.azuredatabricks.net/" target="_blank">
+        https://adb-3978525401455147.7.azuredatabricks.net/
     </td>
     </tr>
     <tr>
