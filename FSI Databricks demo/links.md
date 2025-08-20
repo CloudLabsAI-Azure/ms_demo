@@ -81,8 +81,8 @@
           https://app-azuredatabricksdemo.azurewebsites.net/
         </a>
       </td>
-    <td>Azure Databricks Service</td>
     <tr>
+    <td>Azure Databricks Service</td>
     <td>
       <a href="https://adb-1182786345533470.10.azuredatabricks.net/" target="_blank">
         https://adb-1182786345533470.10.azuredatabricks.net/
