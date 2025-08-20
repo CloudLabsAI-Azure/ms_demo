@@ -86,6 +86,7 @@
     <td>
       <a href="https://adb-1182786345533470.10.azuredatabricks.net/" target="_blank">
         https://adb-1182786345533470.10.azuredatabricks.net/
+      </a>
     </td>
     </tr>
   </tbody>
