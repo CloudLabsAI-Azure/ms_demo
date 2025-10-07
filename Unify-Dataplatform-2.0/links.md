@@ -45,7 +45,7 @@
 <div class="description">
   <h2 style="color: #333;">📄 Description</h2>
   <p>
-    Zava, a global enterprise with a strong retail and online presence, embarked on a major data transformation after experiencing declining KPIs such as revenue, profit, and customer satisfaction. Guided by its Chief Data Officer, Zava adopted <strong>Microsoft Fabric</strong> to unify its siloed data and establish a connected, intelligent analytics ecosystem. The transformation empowered teams across departments—operations, marketing, finance, IT, product, and customer experience—to make data-driven decisions in real time. Leveraging AI, machine learning, and agentic capabilities, Zava turned insights into measurable business outcomes. The following scenarios illustrate how Microsoft Fabric enabled value across diverse retail personas and functions..
+    Zava, a global enterprise with a strong retail and online presence, embarked on a major data transformation after experiencing declining KPIs such as revenue, profit, and customer satisfaction. Guided by its Chief Data Officer, Zava adopted <strong>Microsoft Fabric</strong> to unify its siloed data and establish a connected, intelligent analytics ecosystem. The transformation empowered teams across departments—operations, marketing, finance, IT, product, and customer experience—to make data-driven decisions in real time. Leveraging AI, machine learning, and agentic capabilities, Zava turned insights into measurable business outcomes. The following scenarios illustrate how Microsoft Fabric enabled value across diverse retail personas and functions.
   </p>
   <ul> 
   <li><strong>Real-Time Operations Control:</strong> IoT and Eventstream data enable instant visibility and proactive store management.
