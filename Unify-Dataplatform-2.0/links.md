@@ -45,14 +45,15 @@
 <div class="description">
   <h2 style="color: #333;">📄 Description</h2>
   <p>
-    In this demonstration, you'll witness how <strong>Contoso</strong> unfolds the future of integration and innovation with <strong>Microsoft Fabric</strong>.
+    Zava, a global enterprise with a strong retail and online presence, embarked on a major data transformation after experiencing declining KPIs such as revenue, profit, and customer satisfaction. Guided by its Chief Data Officer, Zava adopted <strong>Microsoft Fabric</strong> to unify its siloed data and establish a connected, intelligent analytics ecosystem. The transformation empowered teams across departments—operations, marketing, finance, IT, product, and customer experience—to make data-driven decisions in real time. Leveraging AI, machine learning, and agentic capabilities, Zava turned insights into measurable business outcomes. The following scenarios illustrate how Microsoft Fabric enabled value across diverse retail personas and functions..
   </p>
-  <ul>
-    <li>Seamless collaboration enabled by <strong>OneLake</strong>, providing unified storage for innovation and teamwork.</li>
-    <li>Intelligent <strong>Copilot</strong> in Data Warehouse, Data Science, and Real-Time Experience to assist coding needs.</li>
-    <li>Enhanced data reliability with <strong>Database Mirroring</strong> and <strong>Shortcuts</strong> for secure data flow.</li>
-    <li><strong>Data Activator</strong> triggers real-time alerts by monitoring activity continuously.</li>
-    <li><strong>Power BI Copilot</strong> elevates business and technical insights for users.</li>
+  <ul> 
+  <li><strong>Real-Time Operations Control:</strong> IoT and Eventstream data enable instant visibility and proactive store management.
+  </li> <li><strong>360° Customer Insights:</strong> Machine learning identifies customer segments for targeted and personalized marketing.</li> <li><strong>AI-Powered Financial Forecasting:</strong> Predictive models improve budget accuracy and profitability insights.</li> 
+  <li><strong>Modernizing Analytics:</strong> Unified data sources in Fabric simplify governance and accelerate reporting.</li> 
+  <li><strong>Product Performance Insights:</strong> Real-time sales and inventory metrics drive data-based product decisions.</li> 
+  <li><strong>Retail Outcomes Optimization:</strong> Advanced analytics fine-tune pricing, promotions, and store performance.</li> 
+  <li><strong>Personalized Engagement with Agentic AI:</strong> AI offers dynamic recommendations and alternative products to enhance satisfaction.</li> <li><strong>Generative AI Knowledge Assistant:</strong> Copilot tools empower frontline workers with quick insights and better customer service.</li> 
   </ul>
 </div>
 
