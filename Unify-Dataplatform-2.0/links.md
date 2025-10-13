@@ -88,5 +88,13 @@
         </a>
       </td>
     </tr>
+    <tr>
+      <td>Web App Link</td>
+      <td>
+        <a href="https://app-fabricunifydataplatform-2.azurewebsites.net" target="_blank">
+          https://app-fabricunifydataplatform-2.azurewebsites.net
+        </a>
+      </td>
+    </tr>
   </tbody>
 </table>
