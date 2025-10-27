@@ -44,7 +44,7 @@
   <h2 style="color: #333;">📄 Description</h2>
   <p>
     <br> 
-    Zava Financial transformed its operations using Azure Databricks and Microsoft Fabric to address critical KPIs across banking and insurance. The team deployed AI-powered accelerators for credit decisioning, smart claims processing, and fraud detection, improving net interest margin, reducing turnaround time, and increasing fraud detection rates. Using Lakehouse architecture, Lakeflow Connect, and Unity Catalog, they unified data engineering, ML, and BI with strong governance. Business users accessed insights via AI/BI Genie, integrated with Copilot Studio and Teams for conversational analytics and workflow automation. Security was enhanced through AIM, ensuring seamless identity management via Microsoft Entra ID.
+    This demo shows how Zava Financial, a fictious company transformed its operations using Azure Databricks to address critical KPIs across banking and insurance. The team deployed AI-powered accelerators for credit decisioning, smart claims processing, and fraud detection, improving net interest margin, reducing turnaround time, and increasing fraud detection rates. Using Lakehouse architecture, Lakeflow Connect, and Unity Catalog, they unified data engineering, ML, and BI with strong governance. Business users accessed insights via AI/BI Genie, integrated with Copilot Studio and Teams for conversational analytics and workflow automation to get quick real-time insights. Security was enhanced through AIM, ensuring seamless identity management via Microsoft Entra ID.
   </p>
 </div>
 
@@ -93,6 +93,7 @@
     </tr>
   </tbody>
 </table>
+
 
 
 
