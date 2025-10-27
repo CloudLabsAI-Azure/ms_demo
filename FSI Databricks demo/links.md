@@ -63,6 +63,8 @@
 |-----------------|---------------------------------------|
 | Username    | <inject key="AzureAdUserEmail" />     |
 | Password   | <inject key="AzureAdUserPassword" />  |
+| Teams Login Username | <inject key="Teams Login UserName" /> |
+| Teams Login Password | <inject key="Teams Login Password" /> |
 
 
 <!-- Resource Details Table -->
@@ -91,4 +93,5 @@
     </tr>
   </tbody>
 </table>
+
 
