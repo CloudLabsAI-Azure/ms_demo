@@ -63,8 +63,6 @@
 |-----------------|---------------------------------------|
 | Username    | <inject key="AzureAdUserEmail" />     |
 | Password   | <inject key="AzureAdUserPassword" />  |
-| Teams Login Username | <inject key="Teams Login UserName" /> |
-| Teams Login Password | <inject key="Teams Login Password" /> |
 
 
 <!-- Resource Details Table -->
@@ -91,16 +89,9 @@
       </a>
     </td>
     </tr>
-    <tr>
-    <td>Microsoft Teams</td>
-    <td>
-      <a href="https://teams.microsoft.com/v2/" target="_blank">
-        https://teams.microsoft.com/v2/
-      </a>
-    </td>
-    </tr>
   </tbody>
 </table>
+
 
 
 
