@@ -82,8 +82,8 @@
     <tr>
     <td>Azure AI foundry</td>
     <td>
-      <a href="https://ai.azure.com" target="_blank">
-        https://ai.azure.com/
+      <a href="https://ai.azure.com/?tid=f94768c8-8714-4abe-8e2d-37a64b18216a" target="_blank">
+        https://ai.azure.com/?tid=f94768c8-8714-4abe-8e2d-37a64b18216a
       </a>
     </td>
     </tr>
