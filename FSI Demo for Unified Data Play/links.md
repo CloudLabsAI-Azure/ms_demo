@@ -82,8 +82,8 @@
     <tr>
     <td>Azure AI foundry</td>
     <td>
-      <a href="https://ai.azure.com/?tid=f94768c8-8714-4abe-8e2d-37a64b18216a" target="_blank">
-        https://ai.azure.com/?tid=f94768c8-8714-4abe-8e2d-37a64b18216a
+      <a href="https://ai.azure.com/foundryProject/overview?wsid=/subscriptions/3f01ab49-a56f-4ee7-97fa-d23155156b42/resourceGroups/rg-fsi-unified-dataplay/providers/Microsoft.CognitiveServices/accounts/FSI-Unified-DataPlay/projects/firstProject&tid=f94768c8-8714-4abe-8e2d-37a64b18216a" target="_blank">
+        https://ai.azure.com/foundryProject/overview?wsid=/subscriptions/3f01ab49-a56f-4ee7-97fa-d23155156b42/resourceGroups/rg-fsi-unified-dataplay/providers/Microsoft.CognitiveServices/accounts/FSI-Unified-DataPlay/projects/firstProject&tid=f94768c8-8714-4abe-8e2d-37a64b18216a
       </a>
     </td>
     </tr>
