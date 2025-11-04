@@ -80,7 +80,7 @@
     </td>
     </tr>
     <tr>
-    <td>Azure Databricks Service</td>
+    <td>Azure AI foundry</td>
     <td>
       <a href="https://ai.azure.com" target="_blank">
         https://ai.azure.com/
