@@ -88,7 +88,7 @@ Test and refine bot responses for accuracy and relevance
 
 In this exercise, you will build a Lakehouse environment using Azure Databricks and Lakeflow to orchestrate and transform data. You’ll load data into Unity Catalog, create ETL pipelines, and explore AI-driven insights, lineage, and profiling.
 
-### Task 1: Set Up Azure Databricks Environment and load data into Unity Catalog
+### Task 1.1: Set Up Azure Databricks Environment and load data into Unity Catalog
 
 1. Click the following link to open the Databricks workspace: **https://adb-689745566023860.0.azuredatabricks.net**
 
@@ -104,18 +104,18 @@ In this exercise, you will build a Lakehouse environment using Azure Databricks 
 
     ![Task-2.3_1.png](./media/notebook.png)
 
-### Task 2: Create ETL pipeline for Data Transformation
+### Task 1.2: Create ETL pipeline for Data Transformation
 
 1. From the left navigation pane, select **Jobs & Pipelines**, then choose **ETL Pipeline**.
 
-![Task-2.3_1.png](./media/ex2.png)
+   ![Task-2.3_1.png](./media/ex2.png)
 
 2. View the ETL pipeline explore the pipeline and review the **pipeline graph** to understand the data flow and transformation process.
 
-![Task-2.3_1.png](./media/graph.png)
+   ![Task-2.3_1.png](./media/graph.png)
 
 
-### Task 3: Generate column-level insights with AI Suggested Descriptions, then explore data lineage, table update history, and profiling in Azure Databricks.
+### Task 1.3: Generate column-level insights with AI Suggested Descriptions, then explore data lineage, table update history, and profiling in Azure Databricks.
 
 1. Navigate to the tables you created under your schema in the Databricks workspace, and click on **AI Generate** to automatically generate comments for the table columns.
 
