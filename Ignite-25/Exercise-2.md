@@ -52,27 +52,13 @@ In this Task You’ll connect AI/BI Genie to AI Foundry for seamless orchestrati
 
    ![databricks](./media/aifoundary3.png)
 
-3. Click on **Connected resources**, then click on **+ New connection**.
+3. Click on **Connected resources** then open the existing connection.
 
-   ![databricks](./media/aifoundary4.png)
+   ![databricks](./media/ig1.png)
 
-4. Scroll down and click on **Azure Databricks**.
+8. View the connection details then close the connection window.
 
-   ![databricks](./media/aifoundary5.png)
-
-5. Click the dropdown for **Connection Type**, then Select **Genie**.
-
-   >**Note**: Please make sure you select the **Resource group** you opened in **step 1**.
-
-    ![databricks](./media/aifoundary6.png)
-
-7. Click the drop down for **Select Genie space**, choose **Zava_genie**, and then click on **Add connection**.
-
-   ![databricks](./media/aifoundary7.png)
-
-8. Once it's **Connected**, Click on **close**.
-
-   ![databricks](./media/aifoundary8.png)
+   ![databricks](./media/ig2.png)
 
 ### Task 2.3: Use Agent Created Inside AI Foundry with Custom Web App
 
