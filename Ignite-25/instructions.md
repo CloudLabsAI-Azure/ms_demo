@@ -266,13 +266,13 @@ Mirroring the Azure Databricks Catalog structure in Fabric allows seamless acces
 
 ![Task-2.3_3.png](./media/Task-2.3_3.png)
 
-5. In the URL field enter **https://adb-<MirroredworkspaceID>.azuredatabricks.net**
+5. In the URL field enter **https://adb-689745566023860.0.azuredatabricks.net**
 
 6. Now, select **Service principal** from 'Authentication kind' dropdown box, and enter the following details.
 
-- Tenant ID: ```MirroredTenantID```
-- Service principal client ID: ```MirroredSPclientID```
-- Service principal Key: ```MirroredSPkey```
+- Tenant ID: ```f94768c8-8714-4abe-8e2d-37a64b18216a```
+- Service principal client ID: ```95121828-71fb-4854-a9e6-cb7294eff8a2```
+- Service principal Key: ``````
 
 7. click on the **Connect** button.
 
@@ -282,7 +282,7 @@ Mirroring the Azure Databricks Catalog structure in Fabric allows seamless acces
 
 ![Task-2.3_7.1.png](./media/Task-2.3_7.1.png)
 
-9. In the **Choose data** screen, select the Catalog name as **zava_unity_catalog** from the dropdown box, and select the **  ** schema if not selected, then select the checkbox **Automatically sync future catalog changes for the selected schema** (to mirror future tables) if not ticked and click on **Next** button.
+9. In the Choose data screen, select the Catalog name as **zava_unity_catalog** from the dropdown box, and select the **fraud-detection** schema if not selected, scroll down then select the checkbox **Automatically sync future catalog changes for the selected schema** (to mirror future tables) if not ticked and click on **Next** button.
 
 ![Task-2.3_8.png](./media/Task-2.3_8.png)
 
@@ -304,9 +304,9 @@ Mirroring the Azure Databricks Catalog structure in Fabric allows seamless acces
 
 ![](./media/semantic.png)
 
-2. Paste the semantic model name as **fraud_detection**, expand Tables and select **fraudtransactions** and then click on **Confirm**.
+2. Paste the semantic model name as **fraud_detection**, expand tables and select **anomaly_transactions** and then click on Confirm.
 
-![](./media/semantic1.png)
+![](./media/adb53.png)
 
 3. Click on the Ellipses (3 dots) next to **fraud_detection** Semantic Model to load the dropdown menu. Select **Create report** from the dropdown.
 
