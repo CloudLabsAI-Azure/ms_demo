@@ -173,7 +173,7 @@ In this exercise, you will integrate Azure Databricks Genie with Azure AI Foundr
 
     ![databricks](./media/genie1.png)
 
-8. Observe the response from Genie, then click Show code to view the code Genie used to formulate the answer.
+8. Observe the response from Genie, then click **Show code** to view the code Genie used to formulate the answer.
 
    > **Note**: The responses from Genie may not match the ones in the screenshot but will provide a similar response.
 
@@ -186,11 +186,11 @@ In this Task You’ll connect AI/BI Genie to AI Foundry for seamless orchestrati
 
 1. Navigate back to the resource group page and click on **AIhub-....**.
 
-![databricks](./media/aifoundary1.png)
+   ![databricks](./media/aifoundary1.png)
 
 2. Click on **Go to Azure AI Foundary portal**.
 
-![databricks](./media/aifoundary2.png)
+   ![databricks](./media/aifoundary2.png)
 
 3. Scroll down and then click on **Management center**.
 
