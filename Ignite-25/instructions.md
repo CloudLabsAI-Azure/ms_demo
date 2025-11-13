@@ -92,17 +92,17 @@ In this exercise, you will build a Lakehouse environment using Azure Databricks 
 
 1. Click the following link to open the Databricks workspace: **https://adb-689745566023860.0.azuredatabricks.net**
 
-3. On the Databricks workspace page, select the **Catalog**, click on **zava_unity_catalog**, and then choose **schema-1957817**.
+2. On the Databricks workspace page, select the **Catalog**, click on **zava_unity_catalog**, and then choose **schema-1957817**.
 
    ![Task-2.3_1.png](./media/schema-ig.png)
 
-10. From the left navigation, select **Workspace**, expand Workspace **Repos**, choose **Analytics with ADB**, and open **01.1-DLT-fraud-detection-SQL**.
+3. From the left navigation, select **Workspace**, expand Workspace **Repos**, choose **Analytics with ADB**, and open **01.1-DLT-fraud-detection-SQL**.
 
-![Task-2.3_1.png](./media/ex1t1i10.png)
+    ![Task-2.3_1.png](./media/ex1t1i10.png)
 
-11. Explore the notebook review the code cells, markdown explanations, and outputs to understand the workflow and logic.
+4. Explore the notebook review the code cells, markdown explanations, and outputs to understand the workflow and logic.
 
-![Task-2.3_1.png](./media/notebook.png)
+    ![Task-2.3_1.png](./media/notebook.png)
 
 ### Task 2: Create ETL pipeline for Data Transformation
 
