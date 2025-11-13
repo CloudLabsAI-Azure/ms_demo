@@ -108,35 +108,12 @@ In this exercise, you will build a Lakehouse environment using Azure Databricks 
 
 1. From the left navigation pane, select **Jobs & Pipelines**, then choose **ETL Pipeline**.
 
-![Task-2.3_1.png](./media/ex1t1i12.png)
+![Task-2.3_1.png](./media/ex2.png)
 
-2. From the dropdown list, select **zava_unity_catalog**.
+2. View the ETL pipeline explore the pipeline and review the **pipeline graph** to understand the data flow and transformation process.
 
-![Task-2.3_1.png](./media/ex1t1i19.png)
+![Task-2.3_1.png](./media/graph.png)
 
-3. From the Schema dropdown list, select the schema you created in the previous steps.
-
-![Task-2.3_1.png](./media/ex1t1i20.png)
-
-4. On the New Pipeline page, select **Add Existing Assets**.
-
-![Task-2.3_1.png](./media/ex1t1i13.png)
-
-5. In the pipeline root folder, choose the **Analytics with ADB** folder and click **Select**.
-
-![Task-2.3_1.png](./media/ex1t1i14.png)
-
-6. In the Source Code Path, select the **01.1-DLT-fraud-detection-SQL** notebook from the **Analytics with ADB** folder, and then click **Select**.
-
-![Task-2.3_1.png](./media/ex1t1i15.png)
-
-7. After adding the **pipeline root folder** and **source code path**, review the details and click **Add**.
-
-![Task-2.3_1.png](./media/ex1t1i18.png)
-
-8. After adding, click **Run Pipeline** from the top-right corner to execute the pipeline.
-
-![Task-2.3_1.png](./media/ex1t1i211.png)
 
 ### Task 3: Generate column-level insights with AI Suggested Descriptions, then explore data lineage, table update history, and profiling in Azure Databricks.
 
