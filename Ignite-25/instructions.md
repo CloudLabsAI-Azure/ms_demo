@@ -254,7 +254,7 @@ Mirroring the Azure Databricks Catalog structure in Fabric allows seamless acces
 
 1. Navigate back to the Microsoft Fabric tab on your browser (https://app.fabric.microsoft.com).
 
-2. Click on the **@lab.LabInstance.Id** and select **New item** from menu bar.
+2. Click on the **Ignite-25** and select **New item** from menu bar.
 
 ![Task-2.3_1.png](./media/Task-2.3_1.png)
 
@@ -272,7 +272,7 @@ Mirroring the Azure Databricks Catalog structure in Fabric allows seamless acces
 
 - Tenant ID: ```f94768c8-8714-4abe-8e2d-37a64b18216a```
 - Service principal client ID: ```95121828-71fb-4854-a9e6-cb7294eff8a2```
-- Service principal Key: ``````
+- Service principal Key: 
 
 7. click on the **Connect** button.
 
