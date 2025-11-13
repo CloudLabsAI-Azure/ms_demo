@@ -1,1 +1,85 @@
+## Exercise 4: Copilot Studio for Low-Code Automation
+
+In this exercise, you will use Microsoft Copilot Studio to build a low-code AI agent that connects to Azure Databricks as its knowledge source. The agent will answer business-related questions using live Databricks data. You’ll then publish the agent to Microsoft Teams, enabling users to interact with Databricks data seamlessly through natural language conversations.
+
+### Task 4.1: Create an agent and connect Azure Databricks as its knowledge source to support Business Q&A.
+
+1. Go to **[Copilot Studio](https://copilotstudio.microsoft.com/)**, select **Agents** from the left menu, and click **+ New agent**.
+
+![](./media/ex4t1i1.png)
+
+2. On the welcome screen for Microsoft Copilot Studio, Click on the Get Started button to proceed.
+
+3. On the **Start building your agent** page, click **Configure**, enter the agent name as **Databricks Agent**, add the description **Responds to queries using data from your Databricks workspace**, and then click **Create**.
+
+![](./media/ex4t1i2.png)
+
+4. On the **Databricks Agent** page, click **+ Add knowledge** to include a knowledge source.
+
+![](./media/ex4t1i3.png)
+
+5. On the **Add knowledge** page, click **Advanced**, then select **Azure Databricks**.
+
+![](./media/ex4t1i4.png)
+
+6. In the Server Hostname field type: **adb-689745566023860.0.azuredatabricks.net**
+
+7. In the HTTP path field type: **/sql/1.0/warehouses/30423e4b958bb27b** and click on **Create**.
+
+![](./media/ex4t1i7.png)
+
+9. In the pop-up window, select your account and click **Sign in**.
+
+![](./media/ex4t1i8.png)
+
+10. Select **zava_unity_catalog** and click **Select**.
+
+![](./media/ex4t1i9.png)
+
+11. Search for your schema, select the **gold_transactions** tables within it, and click **Add to Agent**.
+
+![](./media/ex4t1i10.png)
+
+12. Paste the following question to **Test your agent**.
+
+```
+Are there any fraud hotspots based on geo-location?
+```
+
+![](./media/ex4t1i12.png)
+
+
+13. The Agent will respond with:
+ **Let's get you connected first, and then I can find that info for you. ​Open connection manager​ to verify your credentials.**
+ Click on **​Open connection manager**.
+
+![](./media/ex4t1i13.png)
+
+>**Note**:  If prompted to sign in, use your user ID to complete the sign-in process.
+
+![](./media/ex4t1i14.png)
+
+14. Click on **Connect**.
+
+![](./media/ex4t1i15.png)
+
+15. Click on **Submit**.
+
+![](./media/ex4t1i16.png)
+
+16. Navigate back to the **Agent** page and Paste the same question again into **Test your agent**.
+
+```
+Are there any fraud hotspots based on geo-location?
+```
+
+![](./media/ex4t1i12.png)
+
+### Task 4.2: Publish the agent in Microsoft Teams channels and make it accessible to users.
+
+1. Click on **Channels**, then click on **Microsoft Channels**.
+
+![](./media/teams1.png)
+
+2. Navigate to following url to see the agent in action : [Click by click](https://click-by-click.azurewebsites.net/#preview/mhw2w6exgz21zno97ch)
 
