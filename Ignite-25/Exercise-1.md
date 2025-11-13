@@ -35,14 +35,11 @@ In this exercise, you will build a Lakehouse environment using Azure Databricks 
 
 ![Task-2.3_1.png](./media/ex1t3i1.png)
 
-2. Review the AI-generated comments for the columns, then click **Save All** to apply the changes.
+2. Review the AI-generated comments for the columns, then click on **close**.
 
- ![Task-2.3_1.png](./media/ex1t3i2.png)  
+ ![Task-2.3_1.png](./media/d1.png)  
 
 3. To view the lineage, select the **Lineage** tab and review the details in that section. Additionally, click on **See Lineage Graph** to view a visual representation of the data flow.
 
 ![Task-2.3_1.png](./media/ex1t3i3.png) 
 
-4. Select the **History** tab to view the update history of the table.
-
-![Task-2.3_1.png](./media/ex1t3i4.png) 
