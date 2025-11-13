@@ -40,12 +40,6 @@
 
 </style>
 
-<div class="description">
-  <h2 style="color: #333;">📄 Description</h2>
-  <p>
-    Ignite25-LAB335-analytics-and-ai-with-azure-databricks-ai-foundry-and-copilot
-  </p>
-</div>
 
 <!-- Auth Table -->
 
