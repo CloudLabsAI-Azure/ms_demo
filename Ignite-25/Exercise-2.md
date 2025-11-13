@@ -33,7 +33,7 @@ In this exercise, you will integrate Azure Databricks Genie with Azure AI Foundr
    ```
 
 
-    ![databricks](./media/genie1.png)
+![databricks](./media/genie1.png)
 
 8. Observe the response from Genie, then click **Show code** to view the code Genie used to formulate the answer.
 
