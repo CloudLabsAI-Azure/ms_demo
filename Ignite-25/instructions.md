@@ -1,12 +1,5 @@
-# Replacement Tokens & Values
 
-* Storage Account Key: `@lab.Variable(storageaccountkey)`
-* SQL Endpoint: `@lab.Variable(sqlEndpoint)`
-* Destination URI: `@lab.Variable(destinationUri)`
-* Workspace URL: `@lab.Variable(workspaceurl)`
-* Event Hub key: `@lab.Variable(EventHubKey)`
-
-# ignite25-LAB335-analytics-and-ai-with-azure-databricks-ai-foundry-and-copilot
+# Ignite25-LAB335-analytics-and-ai-with-azure-databricks-ai-foundry-and-copilot
 **The estimated time to complete this lab is 50-60 minutes.**
 
 **DISCLAIMER**
@@ -35,47 +28,27 @@ THIS DEMO/LAB PROVIDES CERTAIN SOFTWARE TECHNOLOGY/PRODUCT FEATURES AND FUNCTION
  
 ## Exercise 1: Lakehouse Setup & Data Orchestration with Azure Databricks and Lakeflow declarative pipelines
 
- - Task 1: Set Up Azure Databricks Environment and load data into Unity Catalog from ADLS
- - Task 2: Create ETL pipeline for Data Transformation
- - Task 3: Generate column-level insights with AI Suggested Descriptions, then explore data lineage, table update history, and profiling in Azure Databricks.
+ - Task 1.1: Set Up Azure Databricks Emironment and load data into Unity Catalog from ADLS
+ - Task 1.2: Create ETL pipeline for Data Transformation
+ - Task 1.3: Generate column-level insights with Al Suggested Descriptions, then explore data fineage, table update history, and profiling in Azure Databricks
+
 
 ## Exercise 2: AI-Driven Insights with Azure AI Foundry & Genie
 
  - Task 2.1: Create a Databricks Assistant AI/BI Genie
-    - Design an assistant that can respond to business queries using curated datasets
-    <!-- - Implement using Databricks notebooks or dashboards -->
- 
 - Task 2.2: Connect AI/BI Genie inside AI Foundry.
-    - Use Azure AI Foundry to create a connection to Databricks AI/BI Genie using the native connector
-    <!-- - Interact with Genie through AI Foundry agents to query data and receive contextual responses -->
-
 - Task 2.3: Use Agent Created Inside AI Foundry with Custom Web App
-    - Chat with you data in an custom webapplication
+    
 
 ## Exercise 3: Azure Databricks Mirrored Catalog in Microsoft Fabric
 
  - Task 3.1: Mirror Unity Catalog Table into Fabric’s OneLake
-    - Setup: Create Microsoft Fabric Workspace
-    <!-- - Select a Delta table from Databricks Unity Catalog -->
-    -  Create Fabric’s mirrored catalog in Fabric
  - Task 3.2: Create a semantic model in Direct Lake mode and use Power BI to visualize and generate insights
 
 ## Exercise 4: Copilot Studio for Low-Code Automation
 
  - Task 4.1: Create an agent and connect Azure Databricks as its knowledge source to support Business Q&A.
-    - Build a conversational agent using Copilot Studio
-    - Train it to answer questions like “What’s the top-selling product this week?”
  - Task 4.2: Publish the agent in Microsoft Teams channels and make it accessible to users.
-    - Test and refine bot responses for accuracy and relevance
-
-<!-- ## Exercise 5: Advanced Reporting in Power BI
-
- - Task 5.1: Build a Power BI Report Using Direct Lake Mode
-    - Connect to the Lakehouse using Direct Lake for real-time performance
-    - Design visuals for sales, trends, and KPIs
- - Task 5.2: Add AI Visuals to Explain Key Drivers
-    - Use Key Influencers to identify factors impacting sales
-    - Add Smart Narrative to auto-generate insights and summaries -->
 
 ## Exercise 1: Lakehouse Setup & Data Orchestration with Azure Databricks and Lakeflow declarative pipelines
 
@@ -83,13 +56,7 @@ In this exercise, you will build a Lakehouse environment using Azure Databricks 
 
 ### Task 1: Set Up Azure Databricks Environment and load data into Unity Catalog
 
-1. After running the script to create the required resources, navigate to the resource group you created.
-
-![Task-2.3_1.png](./media/ex1t1i1.png)
-
-2. Select the Databricks workspace you created and launch it.
-
-![Task-2.3_1.png](./media/ex1t1i2.png)
+1. 
 
 3. On the Databricks workspace page, select the **Catalog**, click on **zava_unity_catalog**, and then choose **Create Schema**.
 
