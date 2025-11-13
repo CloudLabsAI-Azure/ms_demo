@@ -94,17 +94,13 @@ In this exercise, you will build a Lakehouse environment using Azure Databricks 
 
 3. On the Databricks workspace page, select the **Catalog**, click on **zava_unity_catalog**, and then choose **schema-1957817**.
 
-![Task-2.3_1.png](./media/schema-ig.png)
-
-4. Enter a schema name with a unique suffix and click on **Create**.
-
-![Task-2.3_1.png](./media/ex1t1i4.png)
+   ![Task-2.3_1.png](./media/schema-ig.png)
 
 10. From the left navigation, select **Workspace**, expand Workspace **Repos**, choose **Analytics with ADB**, and open **01.1-DLT-fraud-detection-SQL**.
 
 ![Task-2.3_1.png](./media/ex1t1i10.png)
 
-11. Press **Ctrl + F** to search for **#schemaName#**, and replace it with the schema name you created earlier.
+11. Explore the notebook review the code cells, markdown explanations, and outputs to understand the workflow and logic.
 
 ![Task-2.3_1.png](./media/ex1t1i11.png)
 
