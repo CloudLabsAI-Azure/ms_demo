@@ -184,54 +184,44 @@ In this exercise, you will integrate Azure Databricks Genie with Azure AI Foundr
 
 In this Task You’ll connect AI/BI Genie to AI Foundry for seamless orchestration
 
-1. Navigate back to the resource group page and click on **AIhub-....**.
+1. Click on the following link to open the **AI Foundry portal**: [AI Foundry link](https://ai.azure.com/foundryResource/overview?wsid=/subscriptions/2afb8c66-936c-466c-8c6d-c69b42ec2e95/resourceGroups/rg-ignite-25-qnyueas/providers/Microsoft.CognitiveServices/accounts/AIhub-qnyueas&tid=f94768c8-8714-4abe-8e2d-37a64b18216a)
 
-   ![databricks](./media/aifoundary1.png)
+2. Scroll down and then click on **Management center**.
 
-2. Click on **Go to Azure AI Foundary portal**.
+   ![databricks](./media/aifoundary3.png)
 
-   ![databricks](./media/aifoundary2.png)
+3. Click on **Connected resources**, then click on **+ New connection**.
 
-3. Scroll down and then click on **Management center**.
+   ![databricks](./media/aifoundary4.png)
 
-![databricks](./media/aifoundary3.png)
+4. Scroll down and click on **Azure Databricks**.
 
-4. Click on **Connected resources**, then click on **+ New connection**.
+   ![databricks](./media/aifoundary5.png)
 
-![databricks](./media/aifoundary4.png)
+5. Click the dropdown for **Connection Type**, then Select **Genie**.
 
-5. Scroll down and click on **Azure Databricks**.
+   >**Note**: Please make sure you select the **Resource group** you opened in **step 1**.
 
-![databricks](./media/aifoundary5.png)
-
-6. Click the dropdown for **Connection Type**, then Select **Genie**.
-
->**Note**: Please make sure you select the **Resource group** you opened in **step 1**.
-
-![databricks](./media/aifoundary6.png)
+    ![databricks](./media/aifoundary6.png)
 
 7. Click the drop down for **Select Genie space**, choose **Zava_genie**, and then click on **Add connection**.
 
-![databricks](./media/aifoundary7.png)
+   ![databricks](./media/aifoundary7.png)
 
 8. Once it's **Connected**, Click on **close**.
 
-![databricks](./media/aifoundary8.png)
+   ![databricks](./media/aifoundary8.png)
 
 ### Task 2.3: Use Agent Created Inside AI Foundry with Custom Web App
 
-In this Task, You’ll use the AI agent within a custom web application to deliver interactive, data-powered intelligence.
+In this Task, You'll use the AI agent within a custom web application to deliver interactive, data-powered intelligence.
 
 
-This is a click-by-click exercise where we connected Azure Databricks to AI Foundry and interact with it by asking questions.
-
-1. Click on the link below to be redirected to the Click-by-Click walkthrough:
-
-   [AI Foundry Click-by-Click Guide](https://app-aifoundry-genieintegration.azurewebsites.net/#/landing-page)
+1. Open the webapp **https://app-aifoundry-genieintegration.azurewebsites.net/#/landing-page**
 
 2. Click on the robot icon located at the bottom-right corner of the page.
 
-![](./media/customwebapp1.png)
+   ![](./media/customwebapp1.png)
 
 3. Click on the first pre-populated question.
 
