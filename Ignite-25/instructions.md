@@ -92,9 +92,9 @@ In this exercise, you will build a Lakehouse environment using Azure Databricks 
 
 1. Click the following link to open the Databricks workspace: **https://adb-689745566023860.0.azuredatabricks.net**
 
-3. On the Databricks workspace page, select the **Catalog**, click on **zava_unity_catalog**, and then choose **Create Schema**.
+3. On the Databricks workspace page, select the **Catalog**, click on **zava_unity_catalog**, and then choose **schema-1957817**.
 
-![Task-2.3_1.png](./media/ex1t1i3.png)
+![Task-2.3_1.png](./media/schema-ig.png)
 
 4. Enter a schema name with a unique suffix and click on **Create**.
 
