@@ -154,7 +154,7 @@ In this exercise, you will integrate Azure Databricks Genie with Azure AI Foundr
 
 3. Click on **All** and then click on **zava_unity_catalog**.
 
-4. Click on the **schema** you created.
+4. Click on the **schema-1957817** you created.
 
 5. Select **gold_transactions**, then click on **Create**.
 
@@ -164,22 +164,20 @@ In this exercise, you will integrate Azure Databricks Genie with Azure AI Foundr
 
 ![databricks](./media/databricks9.png)
 
-7. Paste the below questions and to see the response.
+7. Paste the following question in chat box and click on send.
 
-```
-Are there any fraud hotspots based on geo-location?
-```
-```
-Show me the top 10 most frequent fraud types in gold_transactions.
-```
-```
-What is the average transaction amount for fraudulent vs non-fraudulent transactions?
-```
-```
-Which countries have the highest number of flagged transactions?
-```
+   ```
+   Are there any fraud hotspots based on geo-location?
+   ```
 
-![databricks](./media/genie1.png)
+
+    ![databricks](./media/genie1.png)
+
+8. Observe the response from Genie, then click Show code to view the code Genie used to formulate the answer.
+
+   > **Note**: The responses from Genie may not match the ones in the screenshot but will provide a similar response.
+
+    ![databricks](./media/genie2.png)
 
 
 ### Task 2.2: Connect AI/BI Genie inside AI Foundry.
