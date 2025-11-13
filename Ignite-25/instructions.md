@@ -102,7 +102,7 @@ In this exercise, you will build a Lakehouse environment using Azure Databricks 
 
 11. Explore the notebook review the code cells, markdown explanations, and outputs to understand the workflow and logic.
 
-![Task-2.3_1.png](./media/ex1t1i11.png)
+![Task-2.3_1.png](./media/notebook.png)
 
 ### Task 2: Create ETL pipeline for Data Transformation
 
