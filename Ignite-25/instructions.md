@@ -350,43 +350,39 @@ In this exercise, you will use Microsoft Copilot Studio to build a low-code AI a
 
 ![](./media/ex4t1i1.png)
 
-2. On the **Start building your agent** page, click **Configure**, enter the agent name as **Databricks Agent**, add the description **Responds to queries using data from your Databricks workspace**, and then click **Create**.
+2. On the welcome screen for Microsoft Copilot Studio, Click on the Get Started button to proceed.
+
+3. On the **Start building your agent** page, click **Configure**, enter the agent name as **Databricks Agent**, add the description **Responds to queries using data from your Databricks workspace**, and then click **Create**.
 
 ![](./media/ex4t1i2.png)
 
-3. On the **Databricks Agent** page, click **+ Add knowledge** to include a knowledge source.
+4. On the **Databricks Agent** page, click **+ Add knowledge** to include a knowledge source.
 
 ![](./media/ex4t1i3.png)
 
-4. On the **Add knowledge** page, click **Advanced**, then select **Azure Databricks**.
+5. On the **Add knowledge** page, click **Advanced**, then select **Azure Databricks**.
 
 ![](./media/ex4t1i4.png)
 
-5. In your Databricks workspace, click **SQL Warehouses** from the left menu, select **SQL Warehouses** at the top, and then click **Serverless Starter Warehouse.**
+6. In the Server Hostname field type: **adb-689745566023860.0.azuredatabricks.net**
 
-![](./media/ex4t1i5.png)
-
-6. On the **Serverless Starter Warehouse** page, click **Connection Details**, and copy the **Server Hostname** and **HTTP Path**.
-
-![](./media/ex4t1i6.png)
-
-7. In Copilot Studio, on the **Azure Databricks Connection** page, paste the **Server Hostname** and **HTTP Path** you copied earlier.
+7. In the HTTP path field type: **/sql/1.0/warehouses/30423e4b958bb27b** and click on **Create**.
 
 ![](./media/ex4t1i7.png)
 
-8. In the pop-up window, select your account and click **Sign in**.
+9. In the pop-up window, select your account and click **Sign in**.
 
 ![](./media/ex4t1i8.png)
 
-9. Select **zava_unity_catalog** and click **Select**.
+10. Select **zava_unity_catalog** and click **Select**.
 
 ![](./media/ex4t1i9.png)
 
-10. Search for your schema, select the **gold_transactions** tables within it, and click **Add to Agent**.
+11. Search for your schema, select the **gold_transactions** tables within it, and click **Add to Agent**.
 
 ![](./media/ex4t1i10.png)
 
-11. Paste the following question to **Test your agent**.
+12. Paste the following question to **Test your agent**.
 
 ```
 Are there any fraud hotspots based on geo-location?
@@ -395,7 +391,7 @@ Are there any fraud hotspots based on geo-location?
 ![](./media/ex4t1i12.png)
 
 
-12. The Agent will respond with:
+13. The Agent will respond with:
  **Let's get you connected first, and then I can find that info for you. ​Open connection manager​ to verify your credentials.**
  Click on **​Open connection manager**.
 
@@ -405,15 +401,15 @@ Are there any fraud hotspots based on geo-location?
 
 ![](./media/ex4t1i14.png)
 
-13. Click on **Connect**.
+14. Click on **Connect**.
 
 ![](./media/ex4t1i15.png)
 
-14. Click on **Submit**.
+15. Click on **Submit**.
 
 ![](./media/ex4t1i16.png)
 
-15. Navigate back to the **Agent** page and Paste the same question again into **Test your agent**.
+16. Navigate back to the **Agent** page and Paste the same question again into **Test your agent**.
 
 ```
 Are there any fraud hotspots based on geo-location?
@@ -421,46 +417,11 @@ Are there any fraud hotspots based on geo-location?
 
 ![](./media/ex4t1i12.png)
 
-16. Paste the following questions one by one into the Agent and review the responses.
-
-```
-Show me the top 10 most frequent fraud types in gold_transactions.
-```
-```
-What is the average transaction amount for fraudulent vs non-fraudulent transactions?
-```
-```
-Which countries have the highest number of flagged transactions?
-```
-
-17. Click on **Publish**.
-
-![](./media/ex4t1i11.png)
-
-
 ### Task 4.2: Publish the agent in Microsoft Teams channels and make it accessible to users.
 
 1. Click on **Channels**, then click on **Microsoft Channels**.
 
 ![](./media/teams1.png)
 
->**Note:** If you don't see **Channels**, click on **+4** or **+5** in the Agent menu blade.
-
-![](./media/teams2.png)
-
-2. Click on **Add channel**.
-
-![](./media/teams3.png)
-
-3. Click on **See agent in Teams**.
-
-![](./media/teams4.png)
-
-4. Click on **Use the web app instead**.
-
-![](./media/teams5.png)
-
-5. Click on **Add**.
-
-![](./media/teams6.png)
+2. Navigate to following url to see the agent in action : [Click by click](https://click-by-click.azurewebsites.net/#preview/mhw2w6exgz21zno97ch)
 
