@@ -31,11 +31,13 @@ In this exercise, you will build a Lakehouse environment using Azure Databricks 
 
 ### Task 1.3: Generate column-level insights with AI Suggested Descriptions, then explore data lineage, table update history, and profiling in Azure Databricks.
 
-1. Navigate to the tables you created under your schema in the Databricks workspace, and click on **AI Generate** to automatically generate comments for the table columns.
+1. Navigate to the tables you created under your schema **schema-1957817** in the Databricks workspace, and click on **AI Generate** to automatically generate comments for the table columns.
+
+> Note: If a pop-up appears with the message **Saving comments in bulk could be slow**, click Continue.
 
 ![Task-2.3_1.png](./media/ex1t3i1.png)
 
-2. Review the AI-generated comments for the columns, then click on **close**.
+2. Review the AI-generated comments for the columns, then click on **close** and in Unsaved Changes select Discard changes.
 
  ![Task-2.3_1.png](./media/d1.png)  
 
