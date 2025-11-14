@@ -35,17 +35,17 @@ In this exercise, you will build a Lakehouse environment using Azure Databricks 
 
 ![Task-2.3_1.png](./media/up3.png)
 
-3. click on **AI Generate** to automatically generate comments for the table columns.
+2. click on **AI Generate** to automatically generate comments for the table columns.
 
 > Note: If a pop-up appears with the message **Saving comments in bulk could be slow**, click Continue.
 
-![Task-2.3_1.png](./media/ex1t3i1.png)
+![Task-2.3_1.png](./media/up4.png)
 
-2. Review the AI-generated comments for the columns, then click on **close** and in Unsaved Changes select Discard changes.
+3. Review the AI-generated comments for the columns, then click on **close** and in Unsaved Changes select **Discard changes**.
 
- ![Task-2.3_1.png](./media/d1.png)  
+ ![Task-2.3_1.png](./media/up5.png)  
 
-3. To view the lineage, select the **Lineage** tab and review the details in that section. Additionally, click on **See Lineage Graph** to view a visual representation of the data flow.
+4. To view the lineage, select the **Lineage** tab and review the details in that section. Additionally, click on **See Lineage Graph** to view a visual representation of the data flow.
 
 ![Task-2.3_1.png](./media/ex1t3i3.png) 
 
