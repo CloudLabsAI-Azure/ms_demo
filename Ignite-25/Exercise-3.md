@@ -20,7 +20,7 @@ Mirroring the Azure Databricks Catalog structure in Fabric allows seamless acces
 
 ![Task-2.3_3.png](./media/Task-2.3_3.png)
 
-5. In the URL field enter **https://adb-689745566023860.0.azuredatabricks.net**
+5. In the URL field enter **https://adb-3218079371877032.12.azuredatabricks.net**
 
 6. Now, select **Service principal** from 'Authentication kind' dropdown box, and enter the following details.
 
@@ -36,7 +36,7 @@ Mirroring the Azure Databricks Catalog structure in Fabric allows seamless acces
 
 ![Task-2.3_7.1.png](./media/Task-2.3_7.1.png)
 
-9. In the Choose data screen, select the Catalog name as **zava_unity_catalog** from the dropdown box, and select the **schema-1957817** schema if not selected, scroll down then select the checkbox **Automatically sync future catalog changes for the selected schema** (to mirror future tables) if not ticked and click on **Next** button.
+9. In the Choose data screen, select the Catalog name as **zava_unity_catalog** from the dropdown box, and select the **fraud-detection** schema if not selected, scroll down then select the checkbox **Automatically sync future catalog changes for the selected schema** (to mirror future tables) if not ticked and click on **Next** button.
 
 ![Task-2.3_8.png](./media/Task-2.3_8.png)
 
