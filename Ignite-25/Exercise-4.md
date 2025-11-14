@@ -4,11 +4,14 @@ In this exercise, you will use Microsoft Copilot Studio to build a low-code AI a
 
 ### Task 4.1: Create an agent and connect Azure Databricks as its knowledge source to support Business Q&A.
 
-1. Go to **[Copilot Studio](https://copilotstudio.microsoft.com/)**, select **Agents** from the left menu, and click **+ New agent**.
+1. Go to **[Copilot Studio](https://copilotstudio.microsoft.com/)**,  In the Welcome to Microsoft Copilot Studio page, select **Start free trial** and Proceed.
+
+![](./media/copilottrail.png)
+
+2. select **Agents** from the left menu, and click **+ New agent**.
 
 ![](./media/ex4t1i1.png)
 
-2. On the welcome screen for Microsoft Copilot Studio, Click on the Get Started button to proceed.
 
 3. On the **Start building your agent** page, click **Configure**, enter the agent name as **Databricks Agent**, add the description **Responds to queries using data from your Databricks workspace**, and then click **Create**.
 
