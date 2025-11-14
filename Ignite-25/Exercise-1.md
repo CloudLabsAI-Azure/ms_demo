@@ -8,11 +8,11 @@ In this exercise, you will build a Lakehouse environment using Azure Databricks 
 
 2. On the Databricks workspace page, select the **Catalog**, click on **zava_unity_catalog**, and then choose **schema-1957817**.
 
-   ![Task-2.3_1.png](./media/schema-ig.png)
+   ![Task-2.3_1.png](./media/up1.png)
 
-3. From the left navigation, select **Workspace**, expand Workspace **Repos**, choose **Analytics with ADB**, and open **01.1-DLT-fraud-detection-SQL**.
+3. From the left navigation, select **Workspace**, expand **Workspace**,**Shared** click on **Analytics with ADB** folder, and click on **01.1-DLT-fraud-detection-SQL**.
 
-    ![Task-2.3_1.png](./media/ex1t1i10.png)
+    ![Task-2.3_1.png](./media/up2.png)
 
 4. Explore the notebook review the code cells, markdown explanations, and outputs to understand the workflow and logic.
 
@@ -31,7 +31,11 @@ In this exercise, you will build a Lakehouse environment using Azure Databricks 
 
 ### Task 1.3: Generate column-level insights with AI Suggested Descriptions, then explore data lineage, table update history, and profiling in Azure Databricks.
 
-1. Navigate to the tables you created under your schema **schema-1957817** in the Databricks workspace, and click on **AI Generate** to automatically generate comments for the table columns.
+1. Click on **Catalog** then expand **zava_unity_catalog** and **schema-1957817**, expand **Tables**, and select the **bronze_transactions** table.
+
+![Task-2.3_1.png](./media/up3.png)
+
+3. click on **AI Generate** to automatically generate comments for the table columns.
 
 > Note: If a pop-up appears with the message **Saving comments in bulk could be slow**, click Continue.
 
