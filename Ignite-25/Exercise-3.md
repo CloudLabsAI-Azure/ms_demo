@@ -54,21 +54,21 @@ Mirroring the Azure Databricks Catalog structure in Fabric allows seamless acces
 
 ### Task 3.2: Create a semantic model in Direct Lake mode and use Power BI to visualize and generate insights
 
-1. Click on **New Semantic model**.
+1. Click on the filter option in the top-right corner then select the semantic model.
 
-![](./media/semantic.png)
+   ![](./media/ex3i11.png)
 
-2. Paste the semantic model name as **fraud_detection**, expand tables and select **anomaly_transactions** and then click on Confirm.
+2. Observe the pre-created semantic model named **fraud_detection**, which is built on top of the gold transaction table.
 
-![](./media/adb53.png)
+   ![](./media/adb53i.png)
 
 3. Click on the Ellipses (3 dots) next to **fraud_detection** Semantic Model to load the dropdown menu. Select **Create report** from the dropdown.
 
-![](./media/semantic2.png)
+   ![](./media/semantic2.png)
 
 4. Click on the **Copilot** button, select the ‘Inspire’ button (The Glitter icon at the bottom left of the chat window). Select the option **What’s in my data?** under the Inspire pane.
 
-![](./media/semantic3.png)
+   ![](./media/semantic3.png)
 
 5. Paste the following question into the Copilot chat and take a look at the response.
 
