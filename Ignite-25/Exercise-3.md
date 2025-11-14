@@ -91,9 +91,4 @@ Based on the data of this report, what can be done to reduce the fraudulent tran
 ```
 ![](./media/semantic8.png)
 
-7. Paste the following question into the Copilot chat and take a look at the response.
 
-```
-What fraud prevention efforts can be implemented in each country with the highest number of fraud transactions?
-```
-![](./media/semantic7.png)
