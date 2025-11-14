@@ -29,17 +29,17 @@ In this exercise, you will integrate Azure Databricks Genie with Azure AI Foundr
 7. Paste the following question in chat box and click on send.
 
    ```
-   Are there any fraud hotspots based on geo-location?
+   what is the percentage of fraudulent transactions in my dataset?
    ```
 
 
-![databricks](./media/genie1.png)
+![databricks](./media/Gini.png)
 
 8. Observe the response from Genie, then click **Show code** to view the code Genie used to formulate the answer.
 
    > **Note**: The responses from Genie may not match the ones in the screenshot but will provide a similar response.
 
-    ![databricks](./media/genie2.png)
+    ![databricks](./media/Gini1.png)
 
 
 ### Task 2.2: Connect AI/BI Genie inside AI Foundry.
@@ -66,6 +66,8 @@ In this Task, You'll use the AI agent within a custom web application to deliver
 
 
 1. Open the webapp **https://app-aifoundry-genieintegration.azurewebsites.net/#/landing-page**
+
+2. Select the terms and conditions checkbox, then click Login.
 
 2. Click on the robot icon located at the bottom-right corner of the page.
 
