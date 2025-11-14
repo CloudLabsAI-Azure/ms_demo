@@ -20,7 +20,7 @@ In this exercise, you will integrate Azure Databricks Genie with Azure AI Foundr
 
 5. Select **gold_transactions**, then click on **Create**.
 
-![databricks](./media/databricks7.png)
+![databricks](./media/up6.png)
 
 6. Click on **New Space** in the top left to edit the name and replace it with **Zava_Genie**.
 
