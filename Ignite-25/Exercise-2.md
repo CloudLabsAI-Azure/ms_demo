@@ -56,7 +56,7 @@ In this Task You’ll connect AI/BI Genie to AI Foundry for seamless orchestrati
 
    ![databricks](./media/ig1.png)
 
-8. View the connection details then close the connection window.
+4. View the connection details then close the connection window.
 
    ![databricks](./media/ig2.png)
 
@@ -69,27 +69,27 @@ In this Task, You'll use the AI agent within a custom web application to deliver
 
 2. Select the terms and conditions checkbox, then click Login.
 
-2. Click on the robot icon located at the bottom-right corner of the page.
+3. Click on the robot icon located at the bottom-right corner of the page.
 
    ![](./media/customwebapp1.png)
 
-3. Click on the first pre-populated question.
+4. Click on the first pre-populated question.
 
    ![](./media/customwebapp2.png)
 
-4. Observe the response.
+5. Observe the response.
 
    ![](./media/customwebapp3.png)
 
-5. Click on the second pre-populated question and observe the response.
+6. Click on the second pre-populated question and observe the response.
 
    ![](./media/customwebapp4.png)
 
-6. Click on the third pre-populated question and observe the response.
+7. Click on the third pre-populated question and observe the response.
 
    ![](./media/customwebapp5.png)
 
-7. Click on the next pre-populated question and observe the response.
+8. Click on the next pre-populated question and observe the response.
 
    ![](./media/customwebapp6.png)
 

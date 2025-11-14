@@ -6,49 +6,57 @@ In this exercise, you will integrate Azure Databricks Unity Catalog with Microso
 
 Mirroring the Azure Databricks Catalog structure in Fabric allows seamless access to the underlying catalog data through shortcuts. This means that any changes made to the data are instantly reflected in Fabric, without the need for data movement or replication. Let’s step into Data Engineer, Eva’s shoes to create a Mirrored Azure Databricks Catalog and analyze the data using T-SQL. 
 
-1. Navigate back to the Microsoft Fabric tab on your browser (https://app.fabric.microsoft.com).
+1. Navigate to the Microsoft Fabric tab on your browser (https://app.fabric.microsoft.com).
 
-2. Click on the **Ignite-25** and select **New item** from menu bar.
+2. When it pops up asking to **upgrade the Power BI license**, click **Try free**.
+
+![Task-2.3_1.png](./media/up7.png)
+
+3. click on **Got it**.
+
+![Task-2.3_1.png](./media/up8.png)
+
+4. Click on the **Ignite-25** and select **New item** from menu bar.
 
 ![Task-2.3_1.png](./media/Task-2.3_1.png)
 
-3. In the **New item** window, scroll down and click on **Microsoft Azure Databricks catalog (preview)**.
+5. In the **New item** window, scroll down and click on **Microsoft Azure Databricks catalog**.
 
 ![Task-2.3_2.png](./media/Task-2.3_2.png)
 
-4. When the **New source** window pops up, click on the **Create new connection** radio button.
+6. When the **New source** window pops up, click on the **Create new connection** radio button.
 
 ![Task-2.3_3.png](./media/Task-2.3_3.png)
 
-5. In the URL field enter **https://adb-3218079371877032.12.azuredatabricks.net**
+7. In the URL field enter **https://adb-3218079371877032.12.azuredatabricks.net**
 
-6. Now, select **Service principal** from 'Authentication kind' dropdown box, and enter the following details.
+8. Now, select **Service principal** from 'Authentication kind' dropdown box, and enter the following details.
 
 - Tenant ID: ```f94768c8-8714-4abe-8e2d-37a64b18216a```
 - Service principal client ID: ```95121828-71fb-4854-a9e6-cb7294eff8a2```
 - Service principal Key: 
 
-7. click on the **Connect** button.
+9. click on the **Connect** button.
 
 ![Task-2.3_7.png](./media/Task-2.3_7.png)
 
-8. Click on **Next** button.
+10. Click on **Next** button.
 
 ![Task-2.3_7.1.png](./media/Task-2.3_7.1.png)
 
-9. In the Choose data screen, select the Catalog name as **zava_unity_catalog** from the dropdown box, and select the **fraud-detection** schema if not selected, scroll down then select the checkbox **Automatically sync future catalog changes for the selected schema** (to mirror future tables) if not ticked and click on **Next** button.
+11. In the Choose data screen, select the Catalog name as **zava_unity_catalog** from the dropdown box, and select the **fraud-detection** schema if not selected, scroll down then select the checkbox **Automatically sync future catalog changes for the selected schema** (to mirror future tables) if not ticked and click on **Next** button.
 
 ![Task-2.3_8.png](./media/Task-2.3_8.png)
 
-10. Enter the **Name** for your mirrored Databricks Catalog and click on the **Create** button.
+12. click on the **Create** button.
 
 ![Task-2.3_9.png](./media/Task-2.3_9.png)
 
-11. Click on the **Monitor catalog** button to track the mirroring status and then close it.
+13. Click on the **Monitor catalog** button to track the mirroring status and then close it.
 
 ![Task-2.3_10.1.png](./media/Task-2.3_10.1.png)
 
-12. Click on the **View SQL endpoint** button. You can also select the tables to preview data.
+14. Click on the **View SQL endpoint** button. You can also select the tables to preview data.
 
 ![Task-2.3_10.png](./media/Task-2.3_10.png)
 
