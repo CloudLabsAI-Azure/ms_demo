@@ -39,17 +39,17 @@ In this exercise, you will use Microsoft Copilot Studio to build a low-code AI a
 
 ![](./media/ex4t1i9.png)
 
-11. Search for your schema, select the **gold_transactions** tables within it, and click **Add to Agent**.
+11. Search for **schema-1957817.gold**, select the **gold_transactions** tables within it, and click **Add to Agent**.
 
-![](./media/ex4t1i10.png)
+![](./media/ex4t1i10i.png)
 
 12. Paste the following question to **Test your agent**.
 
 ```
-Are there any fraud hotspots based on geo-location?
+what is the percentage of fraudulent transactions in my dataset?
 ```
 
-![](./media/ex4t1i12.png)
+![](./media/ex4t1i10ii.png)
 
 
 13. The Agent will respond with:
@@ -73,10 +73,10 @@ Are there any fraud hotspots based on geo-location?
 16. Navigate back to the **Agent** page and Paste the same question again into **Test your agent**.
 
 ```
-Are there any fraud hotspots based on geo-location?
+what is the percentage of fraudulent transactions in my dataset?
 ```
 
-![](./media/ex4t1i12.png)
+![](./media/ex4t1i10ii.png)
 
 ### Task 4.2: Publish the agent in Microsoft Teams channels and make it accessible to users.
 
