@@ -97,4 +97,4 @@ Based on the data of this report, what can be done to reduce the fraudulent tran
 ```
 ![](./media/semantic8.png)
 
-
+> **Note**: The responses from Copilot may not match the ones in the screenshot.
