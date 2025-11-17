@@ -28,13 +28,13 @@ Mirroring the Azure Databricks Catalog structure in Fabric allows seamless acces
 
 ![Task-2.3_3.png](./media/Task-2.3_3.png)
 
-7. In the URL field enter **https://adb-3218079371877032.12.azuredatabricks.net**
+7. In the URL field enter **<inject key="Databricks2" />**
 
 8. Now, select **Service principal** from 'Authentication kind' dropdown box, and enter the following details.
 
-- Tenant ID: ```f94768c8-8714-4abe-8e2d-37a64b18216a```
-- Service principal client ID: ```95121828-71fb-4854-a9e6-cb7294eff8a2```
-- Service principal Key: 
+- Tenant ID: <inject key="Tenant ID" />
+- Service principal client ID: <inject key="Service principal client ID" />
+- Service principal Key: ```<inject key="Service principal Key" />```
 
 9. click on the **Connect** button.
 
