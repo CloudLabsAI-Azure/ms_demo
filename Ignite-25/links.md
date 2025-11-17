@@ -85,4 +85,28 @@
   </tbody>
 </table>
 
+## Getting Started with Lab
+
+1. Open an InPrivate browsing window and paste the CloudLabs link.
+
+2. On the Guide page, click the Azure Databricks Workspace link.
+
+   ![](./media/gs1.png)
+
+3. Click on **Continue with Microsoft Entra ID**.
+
+   ![](./media/gs2.png)
+
+4. Return to the **Guide** page, copy the **ODL Username**, paste it into the Sign in field, and click on the Submit **Next** button. 
+
+   ![](./media/gs3.png)
+
+5. In the Guide page, copy the **Password**, paste it into the Enter Password field, and click on **Sign in**. 
+
+   ![](./media/gs4.png)
+
+6. Now, click on Next from the lower right corner to move on to the next page.
+
+   ![](./media/step1.png)
+
 

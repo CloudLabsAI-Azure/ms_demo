@@ -43,6 +43,8 @@ In this exercise, you will build a Lakehouse environment using Azure Databricks 
 
 3. Review the AI-generated comments for the columns, then click on **close** and in Unsaved Changes select **Discard changes**.
 
+ > Note : Don't click on Save all.
+
  ![Task-2.3_1.png](./media/up5.png)  
 
 4. To view the lineage, select the **Lineage** tab and review the details in that section. Additionally, click on **See Lineage Graph** to view a visual representation of the data flow.
