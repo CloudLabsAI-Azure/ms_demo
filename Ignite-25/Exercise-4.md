@@ -64,7 +64,7 @@ what is the percentage of fraudulent transactions in my dataset?
 
 ![](./media/ex4allow.png)
 
-14. The Agent will respond with:
+14. If Agent responded with:
  **Let's get you connected first, and then I can find that info for you. ​Open connection manager​ to verify your credentials.**
  Click on **​Open connection manager**.
 
