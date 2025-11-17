@@ -48,7 +48,7 @@ Mirroring the Azure Databricks Catalog structure in Fabric allows seamless acces
 
 ![Task-2.3_8.png](./media/Task-2.3_8.png)
 
-12. Enter Name as zava_unity_catalog_<inject key= "DeploymentID" enableCopy="false"/> and click on the **Create** button.
+12. Enter Name as **zava_unity_catalog_<inject key= "DeploymentID" enableCopy="false"/>** and click on the **Create** button.
 
  ![Task-2.3_9.png](./media/ig2i.png)
 
@@ -75,8 +75,6 @@ Mirroring the Azure Databricks Catalog structure in Fabric allows seamless acces
    ![](./media/semantic2.png)
 
 4. Click on the **Copilot** button and click on **Get started**.
-
-   ![](./media/ex3iu1.png)
 
    ![](./media/ex3iu2.png)
 
