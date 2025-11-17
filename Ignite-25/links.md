@@ -97,11 +97,11 @@
 
    ![](./media/gs2.png)
 
-4. Return to the **Guide** page, copy the **ODL Username**, paste it into the Sign in field, and click on the Submit **Next** button. 
+4. On the Microsoft Azure browser tab, paste the provided Username:**<inject key="AzureAdUserEmail" />** to Sign in and click **Next** 
 
    ![](./media/gs3.png)
 
-5. In the Guide page, copy the **Password**, paste it into the Enter Password field, and click on **Sign in**. 
+5. Now paste the following Password:**<inject key="AzureAdUserPassword" />** and click on Sign in.
 
    ![](./media/gs4.png)
 
