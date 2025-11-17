@@ -60,32 +60,36 @@ Mirroring the Azure Databricks Catalog structure in Fabric allows seamless acces
 
 ![Task-2.3_10.png](./media/Task-2.3_10.png)
 
-### Task 3.2: Create a semantic model in Direct Lake mode and use Power BI to visualize and generate insights
+### Task 3.2: Create a semantic model in Direct Lake mode and use Power BI to visualize and generate 
 
-1. Click on the filter option in the top-right corner then select the semantic model.
+1. Select **Ignite-25** workspace from left navigation pane.
+
+   ![](./media/ig1i.png)
+
+2. Click on the filter option in the top-right corner then select the semantic model.
 
    ![](./media/ex3i11.png)
 
-2. Observe the pre-created semantic model named **fraud_detection**, which is built on top of the gold transaction table.
+3. Observe the pre-created semantic model named **fraud_detection**, which is built on top of the gold transaction table.
 
    ![](./media/adb53i.png)
 
-3. Click on the Ellipses (3 dots) next to **fraud_detection** Semantic Model to load the dropdown menu. Select **Create report** from the dropdown.
+4. Click on the Ellipses (3 dots) next to **fraud_detection** Semantic Model to load the dropdown menu. Select **Create report** from the dropdown.
 
    ![](./media/semantic2.png)
 
-4. Click on the **Copilot** button, select the ‘Inspire’ button (The Glitter icon at the bottom left of the chat window). Select the option **What’s in my data?** under the Inspire pane.
+5. Click on the **Copilot** button, select the ‘Inspire’ button (The Glitter icon at the bottom left of the chat window). Select the option **What’s in my data?** under the Inspire pane.
 
    ![](./media/semantic3.png)
 
-5. Paste the following question into the Copilot chat and take a look at the response.
+6. Paste the following question into the Copilot chat and take a look at the response.
 
 ```
 Create a report to analyse in detail only fraudulent transactions.
 ```
 ![](./media/semantic6.png)
 
-6. Paste the following question into the Copilot chat and take a look at the response.
+7. Paste the following question into the Copilot chat and take a look at the response.
 ```
 Based on the data of this report, what can be done to reduce the fraudulent transactions, and should I focus on.
 ```
