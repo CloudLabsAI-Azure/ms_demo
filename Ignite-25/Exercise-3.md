@@ -74,9 +74,17 @@ Mirroring the Azure Databricks Catalog structure in Fabric allows seamless acces
 
    ![](./media/semantic2.png)
 
-4. Click on the **Copilot** button, select the ‘Inspire’ button (The Glitter icon at the bottom left of the chat window). Select the option **What’s in my data?** under the Inspire pane.
+4. Click on the **Copilot** button and click on **Get started**.
 
-   ![](./media/semantic3.png)
+   ![](./media/ex3iu1.png)
+
+   ![](./media/ex3iu2.png)
+
+5. Paste the following question into the Copilot chat and on send. What's in my data?
+
+![](./media/ex3iu3.png)
+
+   >Note: If you get the pop-up, After clicking on the Copilot, Click on Get started.
 
 5. Paste the following question into the Copilot chat and take a look at the response.
 

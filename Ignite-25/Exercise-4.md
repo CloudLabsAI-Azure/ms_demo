@@ -12,8 +12,13 @@ In this exercise, you will use Microsoft Copilot Studio to build a low-code AI a
 
 ![](./media/ex4t1i1.png)
 
+> Note: Wait for page to load and refresh the page
 
-3. On the **Start building your agent** page, click **Configure**, enter the agent name as **Databricks Agent**, add the description **Responds to queries using data from your Databricks workspace**, and then click **Create**.
+3. On the **Start building your agent** page, click **Configure**, enter the following values in the respective fields and then click **Create**.
+
+ **Agent name** : ``Databricks Agent``, 
+
+**Description** : ``Responds to queries using data from your Databricks workspace``.
 
 ![](./media/ex4t1i2.png)
 
