@@ -70,26 +70,22 @@ Mirroring the Azure Databricks Catalog structure in Fabric allows seamless acces
 
    ![](./media/ex3i11.png)
 
-3. Observe the pre-created semantic model named **fraud_detection**, which is built on top of the gold transaction table.
-
-   ![](./media/adb53i.png)
-
-4. Click on the Ellipses (3 dots) next to **fraud_detection** Semantic Model to load the dropdown menu. Select **Create report** from the dropdown.
+3. Click on the Ellipses (3 dots) next to **fraud_detection** Semantic Model to load the dropdown menu. Select **Create report** from the dropdown.
 
    ![](./media/semantic2.png)
 
-5. Click on the **Copilot** button, select the ‘Inspire’ button (The Glitter icon at the bottom left of the chat window). Select the option **What’s in my data?** under the Inspire pane.
+4. Click on the **Copilot** button, select the ‘Inspire’ button (The Glitter icon at the bottom left of the chat window). Select the option **What’s in my data?** under the Inspire pane.
 
    ![](./media/semantic3.png)
 
-6. Paste the following question into the Copilot chat and take a look at the response.
+5. Paste the following question into the Copilot chat and take a look at the response.
 
 ```
 Create a report to analyse in detail only fraudulent transactions.
 ```
 ![](./media/semantic6.png)
 
-7. Paste the following question into the Copilot chat and take a look at the response.
+6. Paste the following question into the Copilot chat and take a look at the response.
 ```
 Based on the data of this report, what can be done to reduce the fraudulent transactions, and should I focus on.
 ```
