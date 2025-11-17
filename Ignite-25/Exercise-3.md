@@ -34,7 +34,7 @@ Mirroring the Azure Databricks Catalog structure in Fabric allows seamless acces
 
 - Tenant ID: <inject key="Tenant ID" />
 - Service principal client ID: <inject key="Service principal client ID" />
-- Service principal Key: ```<inject key="Service principal Key" />```
+- Service principal Key: <inject key="Service principal Key" />
 
 9. click on the **Connect** button.
 
