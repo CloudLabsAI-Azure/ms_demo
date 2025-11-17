@@ -48,9 +48,9 @@ Mirroring the Azure Databricks Catalog structure in Fabric allows seamless acces
 
 ![Task-2.3_8.png](./media/Task-2.3_8.png)
 
-12. click on the **Create** button.
+12. Enter Name as zava_unity_catalog_<inject key= "DeploymentID" enableCopy="false"/> and click on the **Create** button.
 
-![Task-2.3_9.png](./media/Task-2.3_9.png)
+ ![Task-2.3_9.png](./media/ig2i.png)
 
 13. Click on the **Monitor catalog** button to track the mirroring status and then close it.
 
