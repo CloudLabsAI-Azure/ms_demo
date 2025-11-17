@@ -17,13 +17,17 @@ In this exercise, you will use Microsoft Copilot Studio to build a low-code AI a
 
 ![](./media/ex4t1i2.png)
 
-4. On the **Databricks Agent** page, click **+ Add knowledge** to include a knowledge source.
+4. On the **Databricks Agent** page, scroll down and click **+ Add knowledge** to include a knowledge source.
 
-![](./media/ex4t1i3.png)
+![](./media/add.png)
 
 5. On the **Add knowledge** page, click **Advanced**, then select **Azure Databricks**.
 
 ![](./media/ex4t1i4.png)
+
+6. On the Select **Azure Databricks connection** pane, click on **Not connected** dropdown and select **Create new connection**.
+
+ ![](./media/ex4iu.png)
 
 6. In the Server Hostname field type: **adb-689745566023860.0.azuredatabricks.net**
 
@@ -51,8 +55,11 @@ what is the percentage of fraudulent transactions in my dataset?
 
 ![](./media/ex4t1i10ii.png)
 
+13. If a prompt appears asking for permission to connect in order to continue, please click **Allow**.
 
-13. The Agent will respond with:
+![](./media/ex4allow.png)
+
+14. The Agent will respond with:
  **Let's get you connected first, and then I can find that info for you. ​Open connection manager​ to verify your credentials.**
  Click on **​Open connection manager**.
 
@@ -62,15 +69,15 @@ what is the percentage of fraudulent transactions in my dataset?
 
 ![](./media/ex4t1i14.png)
 
-14. Click on **Connect**.
+15. Click on **Connect**.
 
 ![](./media/ex4t1i15.png)
 
-15. Click on **Submit**.
+16. Click on **Submit**.
 
 ![](./media/ex4t1i16.png)
 
-16. Navigate back to the **Agent** page and Paste the same question again into **Test your agent**.
+17. Navigate back to the **Agent** page and Paste the same question again into **Test your agent**.
 
 ```
 what is the percentage of fraudulent transactions in my dataset?
