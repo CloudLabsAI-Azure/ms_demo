@@ -8,11 +8,15 @@ Mirroring the Azure Databricks Catalog structure in Fabric allows seamless acces
 
 1. Navigate to the Microsoft Fabric tab on your browser (https://app.fabric.microsoft.com).
 
+2. On the Fabric login page, enter your username **<inject key="AzureAdUserEmail" />** and click **Submit**.
+
+   ![](./media/ws1.png)
+
 2. Click on **Workspaces** from left navigation, then select **Ignite-25**.
 
-   ![](./media/wst3.png)
+     > **Note**: If the workspace isn’t visible, try refreshing the page.
 
-   > **Note**: If the workspace isn’t visible, try refreshing the page.
+   ![](./media/wst3.png)
 
 3. select **New item** from menu bar.
 

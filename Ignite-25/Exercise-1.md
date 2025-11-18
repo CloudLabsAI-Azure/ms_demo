@@ -41,6 +41,8 @@ In this exercise, you will build a Lakehouse environment using Azure Databricks 
 
 ![Task-2.3_1.png](./media/up4.png)
 
+> Note : If the AI Generate option is disabled, it means AI generation is already enabled. You can proceed with the next steps.
+
 3. Review the AI-generated comments for the columns, then click on **close** and in Unsaved Changes select **Discard changes**.
 
  > Note : Don't click on Save all.
