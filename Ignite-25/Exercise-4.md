@@ -34,29 +34,29 @@ In this exercise, you will use Microsoft Copilot Studio to build a low-code AI a
 
 ![](./media/ex4t1i4.png)
 
-6. On the Select **Azure Databricks connection** pane, click on **Not connected** dropdown and select **Create new connection**.
+7. On the Select **Azure Databricks connection** pane, click on **Not connected** dropdown and select **Create new connection**.
 
  ![](./media/ex4iu.png)
 
-6. In the Server Hostname field type: **adb-689745566023860.0.azuredatabricks.net**
+8. In the Server Hostname field type: **adb-689745566023860.0.azuredatabricks.net**
 
-7. In the HTTP path field type: **/sql/1.0/warehouses/30423e4b958bb27b** and click on **Create**.
+9. In the HTTP path field type: **/sql/1.0/warehouses/30423e4b958bb27b** and click on **Create**.
 
 ![](./media/ex4t1i7.png)
 
-9. In the pop-up window, select your account and click **Sign in**.
+10. In the pop-up window, select your account and click **Sign in**.
 
 ![](./media/ex4t1i8.png)
 
-10. Select **zava_unity_catalog** and click **Select**.
+11. Select **zava_unity_catalog** and click **Select**.
 
 ![](./media/ex4t1i9.png)
 
-11. Search for **schema-1957817.gold**, select the **gold_transactions** tables within it, and click **Add to Agent**.
+12. Search for **schema-1957817.gold**, select the **gold_transactions** tables within it, and click **Add to Agent**.
 
 ![](./media/ex4t1i10i.png)
 
-12. Paste the following question to **Test your agent**.
+13. Paste the following question to **Test your agent**.
 
 ```
 What is the average transaction amount for fraudulent vs non-fraudulent transactions?
@@ -64,14 +64,16 @@ What is the average transaction amount for fraudulent vs non-fraudulent transact
 
 ![](./media/ex4n4.png)
 
-13. If a prompt appears asking for permission to connect in order to continue, please click **Allow**.
+14. If a prompt appears asking for permission to connect in order to continue, please click **Allow**.
 
 ![](./media/ex4allow.png)
 
 
-17. Observe the response from Agent.
+15. Observe the response from Agent.
 
 ![](./media/ex4n6.png)
+
+> **Note:** The agent may not respond initially after adding a new data source. **Re-enter** the question or start a **+ New test session** to get a response.
 
 ### Task 4.2: Publish the agent in Microsoft Teams channels and make it accessible to users.
 

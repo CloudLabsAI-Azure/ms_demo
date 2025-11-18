@@ -76,19 +76,19 @@ Mirroring the Azure Databricks Catalog structure in Fabric allows seamless acces
 
    ![Task-2.3_1.png](./media/up7.png)
 
-4. Click on the **Copilot** button and click on **Get started**.
+5. Click on the **Copilot** button and click on **Get started**.
 
    ![](./media/ex3iu2.png)
 
-5. click on **Got it**.
+6. click on **Got it**.
 
-5. Paste the following question into the Copilot chat and on send. What's in my data?
+7. Paste the following question into the Copilot chat and on send. What's in my data?
 
 ![](./media/ex3iu3.png)
 
    >Note: If you get the pop-up, After clicking on the Copilot, Click on Get started.
 
-5. Paste the following question into the Copilot chat and take a look at the response.
+8. Paste the following question into the Copilot chat and take a look at the response.
 
 ```
 Create a report to analyse in detail only fraudulent transactions.
@@ -97,7 +97,7 @@ Create a report to analyse in detail only fraudulent transactions.
 
 > **Note**: The responses from Copilot may not match the ones in the screenshot.
 
-6. Paste the following question into the Copilot chat and take a look at the response.
+9. Paste the following question into the Copilot chat and take a look at the response.
 ```
 Based on the data of this report, what can be done to reduce the fraudulent transactions, and should I focus on.
 ```
