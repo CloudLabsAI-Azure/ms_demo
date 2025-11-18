@@ -8,55 +8,53 @@ Mirroring the Azure Databricks Catalog structure in Fabric allows seamless acces
 
 1. Navigate to the Microsoft Fabric tab on your browser (https://app.fabric.microsoft.com).
 
-2. When it pops up asking to **upgrade the Power BI license**, click **Try free**.
+2. Click on **Workspaces** from left navigation, then select **Ignite-25**.
 
-![Task-2.3_1.png](./media/up7.png)
+   ![](./media/wst3.png)
 
-3. click on **Got it**.
+   > **Note**: If the workspace isn’t visible, try refreshing the page.
 
-![Task-2.3_1.png](./media/up8.png)
+3. select **New item** from menu bar.
 
-4. Click on the **Ignite-25** and select **New item** from menu bar.
+   ![](./media/wst31.png)
 
-![Task-2.3_1.png](./media/Task-2.3_1.png)
-
-5. In the **New item** window, scroll down and click on **Microsoft Azure Databricks catalog**.
+4. In the **New item** window, scroll down and click on **Microsoft Azure Databricks catalog**.
 
 ![Task-2.3_2.png](./media/Task-2.3_2.png)
 
-6. When the **New source** window pops up, click on the **Create new connection** radio button.
+5. When the **New source** window pops up, click on the **Create new connection** radio button.
 
 ![Task-2.3_3.png](./media/Task-2.3_3.png)
 
-7. In the URL field enter **<inject key="Databricks2" />**
+6. In the URL field enter **<inject key="Databricks2" />**
 
-8. Now, select **Service principal** from 'Authentication kind' dropdown box, and enter the following details.
+7. Now, select **Service principal** from 'Authentication kind' dropdown box, and enter the following details.
 
 - Tenant ID: <inject key="Tenant ID" />
 - Service principal client ID: <inject key="Service principal client ID" />
 - Service principal Key: <inject key="Service principal Key" />
 
-9. click on the **Connect** button.
+8. click on the **Connect** button.
 
 ![Task-2.3_7.png](./media/Task-2.3_7.png)
 
-10. Click on **Next** button.
+9. Click on **Next** button.
 
 ![Task-2.3_7.1.png](./media/Task-2.3_7.1.png)
 
-11. In the Choose data screen, select the Catalog name as **zava_unity_catalog** from the dropdown box, and select the **fraud-detection** schema if not selected, scroll down then select the checkbox **Automatically sync future catalog changes for the selected schema** (to mirror future tables) if not ticked and click on **Next** button.
+10. In the Choose data screen, select the Catalog name as **zava_unity_catalog** from the dropdown box, and select the **fraud-detection** schema if not selected, scroll down then select the checkbox **Automatically sync future catalog changes for the selected schema** (to mirror future tables) if not ticked and click on **Next** button.
 
 ![Task-2.3_8.png](./media/Task-2.3_8.png)
 
-12. Enter Name as **zava_unity_catalog_<inject key= "DeploymentID" enableCopy="false"/>** and click on the **Create** button.
+11. Enter Name as **zava_unity_catalog_<inject key= "DeploymentID" enableCopy="false"/>** and click on the **Create** button.
 
  ![Task-2.3_9.png](./media/ig2i.png)
 
-13. Click on the **Monitor catalog** button to track the mirroring status and then close it.
+12. Click on the **Monitor catalog** button to track the mirroring status and then close it.
 
 ![Task-2.3_10.1.png](./media/Task-2.3_10.1.png)
 
-14. Click on the **View SQL endpoint** button. You can also select the tables to preview data.
+13. Click on the **View SQL endpoint** button. You can also select the tables to preview data.
 
 ![Task-2.3_10.png](./media/Task-2.3_10.png)
 
@@ -74,9 +72,15 @@ Mirroring the Azure Databricks Catalog structure in Fabric allows seamless acces
 
    ![](./media/semantic2.png)
 
+4. When it pops up asking to **upgrade the Power BI license**, click **Try free**.
+
+   ![Task-2.3_1.png](./media/up7.png)
+
 4. Click on the **Copilot** button and click on **Get started**.
 
    ![](./media/ex3iu2.png)
+
+5. click on **Got it**.
 
 5. Paste the following question into the Copilot chat and on send. What's in my data?
 
