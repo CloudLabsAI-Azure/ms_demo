@@ -20,9 +20,15 @@ In this exercise, you will use Microsoft Copilot Studio to build a low-code AI a
 
 4. Enter the following values in the respective fields and then click **Save**.
 
- **Agent name** : ``Databricks Agent``, 
+ **Agent name** : 
+ ```
+ Databricks Agent
+ ```
 
-**Description** : ``Responds to queries using data from your Databricks workspace``.
+**Description** : 
+```
+Responds to queries using data from your Databricks workspace.
+```
 
 ![](./media/ex4n3.png)
 
@@ -40,7 +46,15 @@ In this exercise, you will use Microsoft Copilot Studio to build a low-code AI a
 
 8. In the Server Hostname field type: **adb-689745566023860.0.azuredatabricks.net**
 
+```
+adb-689745566023860.0.azuredatabricks.net
+```
+
 9. In the HTTP path field type: **/sql/1.0/warehouses/30423e4b958bb27b** and click on **Create**.
+
+```
+/sql/1.0/warehouses/30423e4b958bb27b
+```
 
 ![](./media/ex4t1i7.png)
 
