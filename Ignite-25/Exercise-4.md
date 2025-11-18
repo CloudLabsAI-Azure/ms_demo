@@ -1,4 +1,4 @@
-## Exercise 4: Copilot Studio for Low-Code Automation
+## Exercise 4: Copilot Studio for Low-Code  (Optional)
 
 In this exercise, you will use Microsoft Copilot Studio to build a low-code AI agent that connects to Azure Databricks as its knowledge source. The agent will answer business-related questions using live Databricks data. You’ll then publish the agent to Microsoft Teams, enabling users to interact with Databricks data seamlessly through natural language conversations.
 
