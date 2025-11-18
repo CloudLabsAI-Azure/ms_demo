@@ -91,6 +91,8 @@ Create a report to analyse in detail only fraudulent transactions.
 ```
 ![](./media/semantic6.png)
 
+> **Note**: The responses from Copilot may not match the ones in the screenshot.
+
 6. Paste the following question into the Copilot chat and take a look at the response.
 ```
 Based on the data of this report, what can be done to reduce the fraudulent transactions, and should I focus on.
