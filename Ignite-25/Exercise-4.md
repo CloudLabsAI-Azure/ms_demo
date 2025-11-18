@@ -85,3 +85,9 @@ What is the average transaction amount for fraudulent vs non-fraudulent transact
 
 Congratulations! As Data Engineers and Data Analysts, you have empowered Zava to transform its disparate data sources into actionable insights-driving growth, enhancing customer satisfaction, and securing a competitive edge.
 
+## Feedback
+
+Your feedback is very useful to us and helps us improve our labs for future events. Please click on the link below for a short survey.
+
+[LAB 535 Feedback](https://aka.ms/ignite25-feedback)
+
