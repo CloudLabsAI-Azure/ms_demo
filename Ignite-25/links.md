@@ -104,13 +104,13 @@
    ![](./media/gs5.png)
 
 
-6. Click on the **<inject key="Databricks1" />** from the result.
+6. Click on the **adb-fabric-qnyueas** from the result.
 
    ![](./media/gs6.png)
 
 7. Scroll down and select **Launch Workspace** to open the Databricks workspace.
 
-  ![](./media/gs7.png)
+   ![](./media/gs7.png)
 
 8. Click on **Continue with Microsoft Entra ID**.
 
