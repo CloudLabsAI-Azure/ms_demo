@@ -6,19 +6,17 @@ In this exercise, you will use Microsoft Copilot Studio to build a low-code AI a
 
 1. Go to **[Copilot Studio](https://copilotstudio.microsoft.com/)**,  In the Welcome to Microsoft Copilot Studio page, select **Start free trial** and Proceed.
 
+> Note : If you encounter the message Something went wrong. We were unable to load your agents, please retry, Refresh the page again.
+
 ![](./media/copilottrail.png)
 
-2. select **Agents** from the left menu, and click **+ Create blank agent**.
+2. select **Agents** from the left menu, and click **New agent**.
 
-![](./media/ex4n1.png)
+ ![](./media/uex4.png)
 
 > Note: Wait for page to load and refresh the page
 
-3. On the Agent overview page, click the Edit icon.
-
-  ![](./media/ex4n2.png)
-
-4. Enter the following values in the respective fields and then click **Save**.
+3. Enter the following values in the respective fields and then click **Create**.
 
  **Agent name** : 
  ```
@@ -30,9 +28,9 @@ In this exercise, you will use Microsoft Copilot Studio to build a low-code AI a
 Responds to queries using data from your Databricks workspace.
 ```
 
-![](./media/ex4n3.png)
+![](./media/uex41.png)
 
-5. On the **Databricks Agent** page, scroll down and click **+ Add knowledge** to include a knowledge source.
+4. On the **Databricks Agent** page, scroll down and click **+ Add knowledge** to include a knowledge source.
 
 ![](./media/add.png)
 
@@ -66,7 +64,7 @@ adb-689745566023860.0.azuredatabricks.net
 
 ![](./media/ex4t1i9.png)
 
-12. Search for **schema-1957817.gold**, select the **gold_transactions** tables within it, and click **Add to Agent**.
+12. Search for **schema-1957817.gold** , select the **gold_transactions** tables within it, and click **Add to Agent**.
 
 ![](./media/ex4t1i10i.png)
 
