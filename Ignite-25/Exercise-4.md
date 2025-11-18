@@ -64,7 +64,7 @@ adb-689745566023860.0.azuredatabricks.net
 
 ![](./media/ex4t1i9.png)
 
-12. Search for **schema-1957817.gold** , select the **gold_transactions** tables within it, and click **Add to Agent**.
+12. Search for **schema-1957817.gold** then select the **gold_transactions** tables within it, and click **Add to Agent**.
 
 ![](./media/ex4t1i10i.png)
 
