@@ -8,25 +8,29 @@ In this exercise, you will use Microsoft Copilot Studio to build a low-code AI a
 
 ![](./media/copilottrail.png)
 
-2. select **Agents** from the left menu, and click **+ New agent**.
+2. select **Agents** from the left menu, and click **+ Create blank agent**.
 
-![](./media/ex4t1i1.png)
+![](./media/ex4n1.png)
 
 > Note: Wait for page to load and refresh the page
 
-3. On the **Start building your agent** page, click **Configure**, enter the following values in the respective fields and then click **Create**.
+3. On the Agent overview page, click the Edit icon.
+
+  ![](./media/ex4n2.png)
+
+4. Enter the following values in the respective fields and then click **Save**.
 
  **Agent name** : ``Databricks Agent``, 
 
 **Description** : ``Responds to queries using data from your Databricks workspace``.
 
-![](./media/ex4t1i2.png)
+![](./media/ex4n3.png)
 
-4. On the **Databricks Agent** page, scroll down and click **+ Add knowledge** to include a knowledge source.
+5. On the **Databricks Agent** page, scroll down and click **+ Add knowledge** to include a knowledge source.
 
 ![](./media/add.png)
 
-5. On the **Add knowledge** page, click **Advanced**, then select **Azure Databricks**.
+6. On the **Add knowledge** page, click **Advanced**, then select **Azure Databricks**.
 
 ![](./media/ex4t1i4.png)
 
@@ -55,40 +59,19 @@ In this exercise, you will use Microsoft Copilot Studio to build a low-code AI a
 12. Paste the following question to **Test your agent**.
 
 ```
-what is the percentage of fraudulent transactions in my dataset?
+What is the average transaction amount for fraudulent vs non-fraudulent transactions?
 ```
 
-![](./media/ex4t1i10ii.png)
+![](./media/ex4n4.png)
 
 13. If a prompt appears asking for permission to connect in order to continue, please click **Allow**.
 
 ![](./media/ex4allow.png)
 
-14. If Agent responded with:
- **Let's get you connected first, and then I can find that info for you. ​Open connection manager​ to verify your credentials.**
- Click on **​Open connection manager**.
 
-![](./media/ex4t1i13.png)
+17. Observe the response from Agent.
 
->**Note**:  If prompted to sign in, use your user ID to complete the sign-in process.
-
-![](./media/ex4t1i14.png)
-
-15. Click on **Connect**.
-
-![](./media/ex4t1i15.png)
-
-16. Click on **Submit**.
-
-![](./media/ex4t1i16.png)
-
-17. Navigate back to the **Agent** page and Paste the same question again into **Test your agent**.
-
-```
-what is the percentage of fraudulent transactions in my dataset?
-```
-
-![](./media/ex4t1i10ii.png)
+![](./media/ex4n6.png)
 
 ### Task 4.2: Publish the agent in Microsoft Teams channels and make it accessible to users.
 

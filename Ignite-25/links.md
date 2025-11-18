@@ -89,23 +89,36 @@
 
 1. Open an InPrivate browsing window and paste the CloudLabs link.
 
-2. On the Guide page, click the Azure Databricks Workspace link.
+2. In the new window, navigate to **https://portal.azure.com**.
 
-   ![](./media/gs1.png)
-
-3. Click on **Continue with Microsoft Entra ID**.
-
-   ![](./media/gs2.png)
-
-4. On the Microsoft Azure browser tab, paste the provided Username:**<inject key="AzureAdUserEmail" />** to Sign in and click **Next** 
+3. On the Microsoft Azure browser tab, paste the provided Username:**<inject key="AzureAdUserEmail" />** to Sign in and click **Next** 
 
    ![](./media/gs3.png)
 
-5. Now paste the following Password:**<inject key="AzureAdUserPassword" />** and click on Sign in.
+4. Now paste the following Password:**<inject key="AzureAdUserPassword" />** and click on Sign in.
 
    ![](./media/gs4.png)
 
-6. Now, click on Next from the lower right corner to move on to the next page.
+5. Search for **Azure Databricks** and select it.
+
+   ![](./media/gs5.png)
+
+
+6. Click on the **<inject key="Databricks1" />** from the result.
+
+   ![](./media/gs6.png)
+
+7. Scroll down and select **Launch Workspace** to open the Databricks workspace.
+
+  ![](./media/gs7.png)
+
+8. Click on **Continue with Microsoft Entra ID**.
+
+   ![](./media/gs2.png)
+
+   > **Note:** If you encounter any permission-related issues, please refresh the page 2-3 times. The page should load correctly afterward.
+
+9. Now, click on Next from the lower right corner to move on to the next page.
 
    ![](./media/step1.png)
 
