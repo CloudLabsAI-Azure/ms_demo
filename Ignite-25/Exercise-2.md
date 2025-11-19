@@ -41,26 +41,9 @@ In this exercise, you will integrate Azure Databricks Genie with Azure AI Foundr
 
     ![databricks](./media/Gini1.png)
 
-
-### Task 2.2: Connect AI/BI Genie inside AI Foundry.
-
-In this Task You’ll connect AI/BI Genie to AI Foundry for seamless orchestration
-
-1. Click on the following link to open the **Microsoft Foundry portal**: [Microsoft Foundry link](https://ai.azure.com/foundryResource/overview?wsid=/subscriptions/2afb8c66-936c-466c-8c6d-c69b42ec2e95/resourceGroups/rg-ignite-25-qnyueas/providers/Microsoft.CognitiveServices/accounts/AIhub-qnyueas&tid=f94768c8-8714-4abe-8e2d-37a64b18216a)
-
-2. Scroll down and then click on **Management center**.
-
-   ![databricks](./media/aifoundary3.png)
-
-3. Click on **Connected resources** then open the existing connection.
-
-   ![databricks](./media/ig1.png)
-
-4. View the connection details then close the connection window.
-
    ![databricks](./media/ig2.png)
 
-### Task 2.3: Use Agent Created Inside AI Foundry with Custom Web App
+### Task 2.2: Use Agent Created Inside AI Foundry with Custom Web App
 
 In this Task, You'll use the AI agent within a custom web application to deliver interactive, data-powered intelligence.
 

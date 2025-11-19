@@ -57,11 +57,7 @@ By the end of this immersive session, you'll have implemented a scalable, cost-e
 
   - Design an assistant that can respond to business queries using curated datasets
 
-- Task 2.2: Connect AI/BI Genie inside AI Foundry.
-
-  - Use Azure AI Foundry to create a connection to Databricks AI/BI Genie using the native connector
-
-- Task 2.3: Use Agent Created Inside AI Foundry with Custom Web App
+- Task 2.2: Use Agent Created Inside AI Foundry with Custom Web App
 
   - Chat with you data in an custom webapplication
 
