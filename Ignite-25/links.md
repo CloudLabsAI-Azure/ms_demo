@@ -74,14 +74,6 @@
         </a>
     </td>
     </tr>
-    <tr>
-    <td>Azure AI foundry</td>
-    <td>
-      <a href="https://ai.azure.com/foundryProject/overview?wsid=/subscriptions/2afb8c66-936c-466c-8c6d-c69b42ec2e95/resourceGroups/rg-ignite-25-qnyueas/providers/Microsoft.CognitiveServices/accounts/AIhub-qnyueas&tid=f94768c8-8714-4abe-8e2d-37a64b18216a" target="_blank">
-        https://ai.azure.com/foundryProject/overview?wsid=/subscriptions/2afb8c66-936c-466c-8c6d-c69b42ec2e95/resourceGroups/rg-ignite-25-qnyueas/providers/Microsoft.CognitiveServices/accounts/AIhub-qnyueas&tid=f94768c8-8714-4abe-8e2d-37a64b18216a
-      </a>
-    </td>
-    </tr>
   </tbody>
 </table>
 
