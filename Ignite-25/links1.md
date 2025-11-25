@@ -39,7 +39,20 @@
 }
 
 </style>
+<div class="description">
+  <h2 style="color: #333;">📄 Description</h2>
+  <p>
+    This demo showcase how Zava a fictitious Retail Store serving suburban communities modernizes its operations through four interconnected real-time scenarios while preserving the customer's trusted and local experience. With rising customer expectations, siloed data, aging systems, and the rapid evolution of AI, Zava turns to Microsoft’s end-to-end cloud and AI platform to fuel its next chapter of growth. At every step, the demo showcases how Microsoft Fabric, Azure OpenAI, Microsoft Purview, Copilot, and Azure infrastructure come together to empower Zava’s teams, unlock real-time insights, and deliver smart, secure, and deeply personalized retail experiences.
+Imagine what you can do with real-time insights, AI-powered copilots, and trusted data governance for your organization!
+  </p>
+</div>
 
+<div class="highlight-box">
+  <strong>IMPORTANT:</strong><br>
+  Please launch the demo <strong>15 minutes before presenting</strong>. Resources may take a few minutes to provision.<br>
+  ODL access provisioning may take <strong>5–7 minutes</strong>.<br>
+  If unauthorized errors occur, wait a few minutes and then press <strong>Ctrl + Shift + R</strong> to refresh.
+</div>
 
 <!-- Auth Table -->
 
