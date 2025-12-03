@@ -61,8 +61,8 @@
     <tr>
     <td>Azure Databricks</td>
     <td>
-        <a href="https://adb-689745566023860.0.azuredatabricks.net/" target="_blank">
-          https://adb-689745566023860.0.azuredatabricks.net/
+        <a href="https://adb-486601822035519.19.azuredatabricks.net/" target="_blank">
+          https://adb-486601822035519.19.azuredatabricks.net/
         </a>
     </td>
     </tr>
@@ -96,7 +96,7 @@
    ![](./media/gs5.png)
 
 
-6. Click on the **adb-fabric-qnyueas** from the result.
+6. Click on the **adb-fabric-9msyp2f** from the result.
 
    ![](./media/gs6.png)
 
