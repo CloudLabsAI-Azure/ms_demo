@@ -90,7 +90,7 @@ In this exercise, you will build a Lakehouse environment using Azure Databricks 
 
 ### Task 1.1: Set Up Azure Databricks Environment and load data into Unity Catalog
 
-1. Click the following link to open the Databricks workspace: **https://adb-689745566023860.0.azuredatabricks.net**
+1. Click the following link to open the Databricks workspace: **https://adb-486601822035519.19.azuredatabricks.net**
 
 2. On the Databricks workspace page, select the **Catalog**, click on **zava_unity_catalog**, and then choose **schema-1957817**.
 
@@ -266,7 +266,7 @@ Mirroring the Azure Databricks Catalog structure in Fabric allows seamless acces
 
 ![Task-2.3_3.png](./media/Task-2.3_3.png)
 
-5. In the URL field enter **https://adb-689745566023860.0.azuredatabricks.net**
+5. In the URL field enter **https://adb-486601822035519.19.azuredatabricks.net**
 
 6. Now, select **Service principal** from 'Authentication kind' dropdown box, and enter the following details.
 
@@ -424,4 +424,5 @@ Are there any fraud hotspots based on geo-location?
 ![](./media/teams1.png)
 
 2. Navigate to following url to see the agent in action : [Click by click](https://click-by-click.azurewebsites.net/#preview/mhw2w6exgz21zno97ch)
+
 
