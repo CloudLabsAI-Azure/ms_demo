@@ -79,8 +79,17 @@ Imagine what you can do with real-time insights, AI-powered copilots, and truste
         </a>
     </td>
     </tr>
+    <tr>
+    <td>M365 Agent</td>
+    <td>
+        <a href="https://m365.cloud.microsoft/chat/?titleId=T_31e117dd-c6c8-cd5b-58cc-271c9b61de32" target="_blank">
+          https://m365.cloud.microsoft/chat/?titleId=T_31e117dd-c6c8-cd5b-58cc-271c9b61de32
+        </a>
+    </td>
+    </tr>
   </tbody>
 </table>
+
 
 
 
