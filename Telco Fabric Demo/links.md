@@ -38,6 +38,8 @@
     text-align: left;
 }
 
+
+  }
 </style>
 
 <div class="description">
@@ -45,6 +47,7 @@
   <p>
     This Telco demo showcases how Microsoft Fabric enables unified data ingestion, semantic modeling, and real-time intelligence to monitor network operations, detect anomalies, and drive proactive decision-making through Fabric IQ.
   </p>
+  
 </div>
 
 <div class="highlight-box">
@@ -53,6 +56,13 @@
   ODL access provisioning may take <strong>5–7 minutes</strong>.<br>
   If unauthorized errors occur, wait a few minutes and then press <strong>Ctrl + Shift + R</strong> to refresh.
 </div>
+
+<!-- Auth Table -->
+
+| **User Login Credentials** |                                       |
+|-----------------|---------------------------------------|
+| Username    | <inject key="AzureAdUserEmail" />     |
+| Password   | <inject key="AzureAdUserPassword" />  |
 
 
 <!-- Resource Details Table -->
@@ -65,20 +75,20 @@
   </thead>
   <tbody>
     <tr>
-      <td>Web App Link</td>
+      <td>Microsoft Fabric Workspace</td>
       <td>
-        <a href="" target="_blank">
-         
+        <a href="https://app.powerbi.com/home?experience=fabric" target="_blank">
+          https://app.powerbi.com/home?experience=fabric
         </a>
       </td>
     </tr>
     <tr>
-    <td>Microsoft Fabric Workspace</td>
-    <td>
-        <a href="https://app.fabric.microsoft.com/home" target="_blank">
-          https://app.fabric.microsoft.com/home
+      <td>Web App Link</td>
+      <td>
+        <a href="" target="_blank">
+          
         </a>
-    </td>
+      </td>
     </tr>
   </tbody>
 </table>
