@@ -86,7 +86,6 @@
       <td>Web App Link</td>
       <td>
         <a href="" target="_blank">
-          
         </a>
       </td>
     </tr>
