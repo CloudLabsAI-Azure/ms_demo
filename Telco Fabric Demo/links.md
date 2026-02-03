@@ -75,6 +75,14 @@
   </thead>
   <tbody>
     <tr>
+      <td>Web App Link</td>
+      <td>
+        <a href="https://telcofabric2.azurewebsites.net/" target="_blank">
+          https://telcofabric2.azurewebsites.net/
+        </a>
+      </td>
+    </tr>
+    <tr>
       <td>Microsoft Fabric Workspace</td>
       <td>
         <a href="https://app.powerbi.com/home?experience=fabric" target="_blank">
