@@ -208,6 +208,14 @@
     </td>
     </tr>
     <tr>
+    <td>Microsoft Azure Portal</td>
+    <td>
+      <a href="https://portal.azure.com/" target="_blank">
+        https://portal.azure.com/
+      </a>
+    </td>
+    </tr>
+    <tr>
     <td>Fabric Eventhouse</td>
     <td>
       <a href="https://app.powerbi.com/groups/644a4412-d11e-4c52-b984-e6f88ba57eca/databases/8d328e5c-61cb-479f-aac9-607374ceb5b4?experience=power-bi" target="_blank">
