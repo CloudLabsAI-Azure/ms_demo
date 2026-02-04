@@ -210,8 +210,8 @@
     <tr>
     <td>Microsoft Azure Portal</td>
     <td>
-      <a href="https://portal.azure.com/" target="_blank">
-        https://portal.azure.com/
+      <a href="https://portal.azure.com/#@cloudlabsai.ms/resource/subscriptions/3f01ab49-a56f-4ee7-97fa-d23155156b42/resourceGroups/rg-app-modernization-demo/overview" target="_blank">
+        https://portal.azure.com/#@cloudlabsai.ms/resource/subscriptions/3f01ab49-a56f-4ee7-97fa-d23155156b42/resourceGroups/rg-app-modernization-demo/overview
       </a>
     </td>
     </tr>
