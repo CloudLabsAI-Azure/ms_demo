@@ -77,8 +77,8 @@
     <tr>
       <td>Web App Link</td>
       <td>
-        <a href="https://telcofabric2.azurewebsites.net/" target="_blank">
-          https://telcofabric2.azurewebsites.net/
+        <a href="https://telcoiq.azurewebsites.net/#/login" target="_blank">
+          https://telcoiq.azurewebsites.net/#/login
         </a>
       </td>
     </tr>
