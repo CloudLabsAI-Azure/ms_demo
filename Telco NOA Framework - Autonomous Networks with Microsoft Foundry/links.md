@@ -64,6 +64,11 @@
 | Username    | <inject key="AzureAdUserEmail" />     |
 | Password   | <inject key="AzureAdUserPassword" />  |
 
+| **ServiceNow Login Credentials** |                                       |
+|-----------------|---------------------------------------|
+| Username    | <inject key="ServiceNow username" />     |
+| Password   | <inject key="ServiceNow password" />  |
+
 
 <!-- Resource Details Table -->
 <table>
@@ -95,6 +100,14 @@
       <td>
         <a href="https://ai.azure.com/nextgen/r/PwGrSaVvTueX-tIxVRVrQg,rg-network-ops-agentic-dev,,proj-telco-noa-demo-resource,proj-telco-noa-demo/build/agents" target="_blank">
           https://ai.azure.com/nextgen/r/PwGrSaVvTueX-tIxVRVrQg,rg-network-ops-agentic-dev,,proj-telco-noa-demo-resource,proj-telco-noa-demo/build/agents
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>ServiceNow Table of Tickets </td>
+      <td>
+        <a href="https://dev280184.service-now.com/now/nav/ui/classic/params/target/u_ticket_list.do" target="_blank">
+          https://dev280184.service-now.com/now/nav/ui/classic/params/target/u_ticket_list.do
         </a>
       </td>
     </tr>
