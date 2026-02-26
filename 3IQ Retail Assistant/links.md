@@ -75,14 +75,6 @@
   </thead>
   <tbody>
     <tr>
-      <td>Web App Link</td>
-      <td>
-        <a href="" target="_blank">
-          
-        </a>
-      </td>
-    </tr>
-    <tr>
       <td>Microsoft Fabric Workspace</td>
       <td>
         <a href="https://app.powerbi.com/home?experience=fabric" target="_blank">
