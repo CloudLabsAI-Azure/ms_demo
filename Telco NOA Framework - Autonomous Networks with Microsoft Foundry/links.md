@@ -103,6 +103,22 @@
         </a>
       </td>
     </tr>
+        <tr>
+      <td>Stroage account </td>
+      <td>
+        <a href="https://portal.azure.com/#@cloudlabsai.ms/resource/subscriptions/506e86fc-853c-4557-a6e5-ad72114efd2b/resourceGroups/rg-telco-noa-prod/providers/Microsoft.Storage/storageAccounts/sttelconoaprod/containersList" target="_blank">
+          https://portal.azure.com/#@cloudlabsai.ms/resource/subscriptions/506e86fc-853c-4557-a6e5-ad72114efd2b/resourceGroups/rg-telco-noa-prod/providers/Microsoft.Storage/storageAccounts/sttelconoaprod/containersList
+        </a>
+      </td>
+    </tr>
+        <tr>
+      <td>Azure Cosmos DB</td>
+      <td>
+        <a href="https://portal.azure.com/#@cloudlabsai.ms/resource/subscriptions/506e86fc-853c-4557-a6e5-ad72114efd2b/resourceGroups/rg-telco-noa-prod/providers/Microsoft.DocumentDb/databaseAccounts/cosmosdb-telco-noa-demo/overview" target="_blank">
+          https://portal.azure.com/#@cloudlabsai.ms/resource/subscriptions/506e86fc-853c-4557-a6e5-ad72114efd2b/resourceGroups/rg-telco-noa-prod/providers/Microsoft.DocumentDb/databaseAccounts/cosmosdb-telco-noa-demo/overview
+        </a>
+      </td>
+    </tr>
     <tr>
       <td>ServiceNow Table of Tickets </td>
       <td>
