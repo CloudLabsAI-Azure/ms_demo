@@ -98,8 +98,8 @@
     <tr>
       <td>Microsoft Foundry Project</td>
       <td>
-        <a href="https://ai.azure.com/nextgen/r/PwGrSaVvTueX-tIxVRVrQg,rg-network-ops-agentic-dev,,proj-telco-noa-demo-resource,proj-telco-noa-demo/build/agents" target="_blank">
-          https://ai.azure.com/nextgen/r/PwGrSaVvTueX-tIxVRVrQg,rg-network-ops-agentic-dev,,proj-telco-noa-demo-resource,proj-telco-noa-demo/build/agents
+        <a href="https://ai.azure.com/nextgen/r/UG6G_IU8RVem5a1yEU79Kw,rg-telco-noa-prod,,proj-telco-noa-demo-resources,proj-telco-noa-demo/home" target="_blank">
+          https://ai.azure.com/nextgen/r/UG6G_IU8RVem5a1yEU79Kw,rg-telco-noa-prod,,proj-telco-noa-demo-resources,proj-telco-noa-demo/home
         </a>
       </td>
     </tr>
