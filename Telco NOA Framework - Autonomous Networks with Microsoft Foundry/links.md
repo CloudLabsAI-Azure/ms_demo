@@ -104,7 +104,7 @@
       </td>
     </tr>
         <tr>
-      <td>Stroage account </td>
+      <td>Storage account </td>
       <td>
         <a href="https://portal.azure.com/#@cloudlabsai.ms/resource/subscriptions/506e86fc-853c-4557-a6e5-ad72114efd2b/resourceGroups/rg-telco-noa-prod/providers/Microsoft.Storage/storageAccounts/sttelconoaprod/containersList" target="_blank">
           https://portal.azure.com/#@cloudlabsai.ms/resource/subscriptions/506e86fc-853c-4557-a6e5-ad72114efd2b/resourceGroups/rg-telco-noa-prod/providers/Microsoft.Storage/storageAccounts/sttelconoaprod/containersList
