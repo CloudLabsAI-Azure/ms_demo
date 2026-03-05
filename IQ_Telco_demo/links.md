@@ -90,5 +90,13 @@
         </a>
       </td>
     </tr>
+    <tr>
+      <td>Microsoft Foundry</td>
+      <td>
+        <a href="https://ai.azure.com/nextgen/r/UG6G_IU8RVem5a1yEU79Kw,rg-IQ-demo-prod,,foundry-telco-iq-prod,proj-telco-iq-prod/home" target="_blank">
+          https://ai.azure.com/nextgen/r/UG6G_IU8RVem5a1yEU79Kw,rg-IQ-demo-prod,,foundry-telco-iq-prod,proj-telco-iq-prod/home
+        </a>
+      </td>
+    </tr>
   </tbody>
 </table>
