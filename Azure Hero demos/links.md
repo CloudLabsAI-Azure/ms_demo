@@ -84,8 +84,8 @@
     <tr>
     <td>Microsoft Foundry Scenario 1a</td>
     <td>
-        <a href="https://ai.azure.com/foundryProject/overview?wsid=/subscriptions/3f01ab49-a56f-4ee7-97fa-d23155156b42/resourceGroups/rg-azurehero-demo-dev/providers/Microsoft.CognitiveServices/accounts/proj-azure-hero-demo-1a-resource/projects/proj-azure-hero-demo-1a-dev&tid=f94768c8-8714-4abe-8e2d-37a64b18216a" target="_blank">
-          https://ai.azure.com/foundryProject/overview?wsid=/subscriptions/3f01ab49-a56f-4ee7-97fa-d23155156b42/resourceGroups/rg-azurehero-demo-dev/providers/Microsoft.CognitiveServices/accounts/proj-azure-hero-demo-1a-resource/projects/proj-azure-hero-demo-1a-dev&tid=f94768c8-8714-4abe-8e2d-37a64b18216a
+        <a href="https://ai.azure.com/nextgen/r/PwGrSaVvTueX-tIxVRVrQg,rg-azurehero-demo-dev,,proj-azure-hero-demo-1a-resource,proj-azure-hero-demo-1a-dev/home" target="_blank">
+         https://ai.azure.com/nextgen/r/PwGrSaVvTueX-tIxVRVrQg,rg-azurehero-demo-dev,,proj-azure-hero-demo-1a-resource,proj-azure-hero-demo-1a-dev/home
         </a>
     </td>
     </tr>
