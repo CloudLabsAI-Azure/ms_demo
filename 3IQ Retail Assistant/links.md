@@ -75,10 +75,26 @@
   </thead>
   <tbody>
     <tr>
+      <td>Web App Link</td>
+      <td>
+        <a href="https://retail-iq.azurewebsites.net/" target="_blank">
+          https://retail-iq.azurewebsites.net/
+        </a>
+      </td>
+    </tr>
+    <tr>
       <td>Microsoft Fabric Workspace</td>
       <td>
         <a href="https://app.powerbi.com/home?experience=fabric" target="_blank">
           https://app.powerbi.com/home?experience=fabric
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>Microsoft Foundry</td>
+      <td>
+        <a href="https://ai.azure.com/nextgen/r/UG6G_IU8RVem5a1yEU79Kw,rg-IQ-demo-prod,,foundry-retail-iq-prod,proj-retail-iq-prod/home" target="_blank">
+          https://ai.azure.com/nextgen/r/UG6G_IU8RVem5a1yEU79Kw,rg-IQ-demo-prod,,foundry-retail-iq-prod,proj-retail-iq-prod/home
         </a>
       </td>
     </tr>
