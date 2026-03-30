@@ -82,6 +82,14 @@
       </td>
     </tr>
     <tr>
+    <td>Hosted Agent</td>
+    <td>
+        <a href="https://ai.azure.com/nextgen/r/PwGrSaVvTueX-tIxVRVrQg,rg-azurehero-demo-dev,,proj-azure-hero-demo-1a-resource-v2,proj-azure-hero-demo-1a-resource-v2/home" target="_blank">
+         https://ai.azure.com/nextgen/r/PwGrSaVvTueX-tIxVRVrQg,rg-azurehero-demo-dev,,proj-azure-hero-demo-1a-resource-v2,proj-azure-hero-demo-1a-resource-v2/home
+        </a>
+    </td>
+    </tr>
+    <tr>
     <td>Microsoft Foundry Scenario 1a</td>
     <td>
         <a href="https://ai.azure.com/nextgen/r/PwGrSaVvTueX-tIxVRVrQg,rg-azurehero-demo-dev,,proj-azure-hero-demo-1a-resource,proj-azure-hero-demo-1a-dev/home" target="_blank">
