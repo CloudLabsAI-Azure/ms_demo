@@ -106,6 +106,14 @@
     </td>
     </tr>
     <tr>
+    <td>Hosted Agent</td>
+    <td>
+        <a href="https://ai.azure.com/nextgen/r/PwGrSaVvTueX-tIxVRVrQg,rg-azurehero-demo-dev,,proj-azure-hero-demo-1a-resource-v2,proj-azure-hero-demo-1a-resource-v2/home" target="_blank">
+          https://ai.azure.com/nextgen/r/PwGrSaVvTueX-tIxVRVrQg,rg-azurehero-demo-dev,,proj-azure-hero-demo-1a-resource-v2,proj-azure-hero-demo-1a-resource-v2/home
+        </a>
+    </td>
+    </tr>
+    <tr>
     <td>Azure App Service</td>
     <td>
         <a href="https://portal.azure.com/#@cloudlabsai.ms/resource/subscriptions/3f01ab49-a56f-4ee7-97fa-d23155156b42/resourceGroups/rg-azurehero-demo-dev/providers/Microsoft.Web/sites/app-azureherodemos-container/appServices" target="_blank">
