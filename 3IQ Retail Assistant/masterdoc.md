@@ -1,6 +1,6 @@
 [
   {
-    "Name": "Telco Fabric demo",
+    "Name": "Retail IQ demo",
     "Language": "English",
     "BaseURL": "https://github.com/CloudLabsAI-Azure/ms_demo",
     "Files": [
