@@ -45,7 +45,7 @@
 <div class="description">
   <h2 style="color: #333;">📄 Description</h2>
   <p>
-    This demo showcases FSI IQ demo
+    Zava Bank transforms financial operations through the unified 3IQ framework. Fabric IQ centralizes CRM, Credit, and Operational data into OneLake, building a business Ontology that maps the entire mortgage lifecycle—from property valuation to final settlement. By incorporating Real-Time Intelligence, the system monitors live financial activity and competitor offers. The Data Agent leverages this unified Ontology to analyze customer segments, benchmark against competitors, and combine real-time and historical data, turning complex analysis into instant insights. Foundry IQ deploys specialized AI agents, including Document Intelligence and Application Prioritization, enabling mortgage officers like Robin to instantly identify high-value, time-sensitive applications such as Joe Williamson’s. Work IQ acts as the critical bridge, securely connecting advanced AI agents to Microsoft 365 daily workflows and enabling governed access to organizational data such as calendars, directories, and communications.
   </p>
   
 </div>
