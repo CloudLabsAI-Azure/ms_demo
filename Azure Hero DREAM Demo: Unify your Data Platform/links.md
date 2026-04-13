@@ -82,58 +82,10 @@
       </td>
     </tr>
     <tr>
-    <td>Microsoft Foundry Scenario 1a</td>
-    <td>
-        <a href="https://ai.azure.com/nextgen/r/PwGrSaVvTueX-tIxVRVrQg,rg-azurehero-demo-dev,,proj-azure-hero-demo-1a-resource,proj-azure-hero-demo-1a-dev/home" target="_blank">
-         https://ai.azure.com/nextgen/r/PwGrSaVvTueX-tIxVRVrQg,rg-azurehero-demo-dev,,proj-azure-hero-demo-1a-resource,proj-azure-hero-demo-1a-dev/home
-        </a>
-    </td>
-    </tr>
-    <tr>
-    <td>Microsoft Foundry Scenario 1b</td>
-    <td>
-        <a href="https://ai.azure.com/build/overview?wsid=/subscriptions/3f01ab49-a56f-4ee7-97fa-d23155156b42/resourceGroups/rg-azurehero-demo-dev/providers/Microsoft.MachineLearningServices/workspaces/proj-azure-hero-demo&tid=f94768c8-8714-4abe-8e2d-37a64b18216a" target="_blank">
-          https://ai.azure.com/build/overview?wsid=/subscriptions/3f01ab49-a56f-4ee7-97fa-d23155156b42/resourceGroups/rg-azurehero-demo-dev/providers/Microsoft.MachineLearningServices/workspaces/proj-azure-hero-demo&tid=f94768c8-8714-4abe-8e2d-37a64b18216a
-        </a>
-    </td>
-    </tr>
-    <tr>
     <td>Microsoft Foundry Scenario 2</td>
     <td>
         <a href="https://ai.azure.com/resource/agentsList?wsid=/subscriptions/3f01ab49-a56f-4ee7-97fa-d23155156b42/resourceGroups/rg-azurehero-demo-dev/providers/Microsoft.CognitiveServices/accounts/prj-aifoundry-aibigenie-resource/projects/prj-aifoundry-aibigenie&tid=f94768c8-8714-4abe-8e2d-37a64b18216a#Threads" target="_blank">
           https://ai.azure.com/resource/agentsList?wsid=/subscriptions/3f01ab49-a56f-4ee7-97fa-d23155156b42/resourceGroups/rg-azurehero-demo-dev/providers/Microsoft.CognitiveServices/accounts/prj-aifoundry-aibigenie-resource/projects/prj-aifoundry-aibigenie&tid=f94768c8-8714-4abe-8e2d-37a64b18216a#Threads
-        </a>
-    </td>
-    </tr>
-    <tr>
-    <td>Hosted Agent</td>
-    <td>
-        <a href="https://ai.azure.com/nextgen/r/PwGrSaVvTueX-tIxVRVrQg,rg-azurehero-demo-dev,,proj-azure-hero-demo-1a-resource-v2,proj-azure-hero-demo-1a-resource-v2/home" target="_blank">
-          https://ai.azure.com/nextgen/r/PwGrSaVvTueX-tIxVRVrQg,rg-azurehero-demo-dev,,proj-azure-hero-demo-1a-resource-v2,proj-azure-hero-demo-1a-resource-v2/home
-        </a>
-    </td>
-    </tr>
-    <tr>
-    <td>Azure App Service</td>
-    <td>
-        <a href="https://portal.azure.com/#@cloudlabsai.ms/resource/subscriptions/3f01ab49-a56f-4ee7-97fa-d23155156b42/resourceGroups/rg-azurehero-demo-dev/providers/Microsoft.Web/sites/app-azureherodemos-container/appServices" target="_blank">
-          https://portal.azure.com/#@cloudlabsai.ms/resource/subscriptions/3f01ab49-a56f-4ee7-97fa-d23155156b42/resourceGroups/rg-azurehero-demo-dev/providers/Microsoft.Web/sites/app-azureherodemos-container/appServices
-        </a>
-    </td>
-    </tr>
-    <tr>
-    <td>Azure OpenAI</td>
-    <td>
-        <a href="https://portal.azure.com/#@cloudlabsai.ms/resource/subscriptions/3f01ab49-a56f-4ee7-97fa-d23155156b42/resourceGroups/rg-azurehero-demo-dev/providers/Microsoft.CognitiveServices/accounts/aoai-herodemo-dev/overview" target="_blank">
-          https://portal.azure.com/#@cloudlabsai.ms/resource/subscriptions/3f01ab49-a56f-4ee7-97fa-d23155156b42/resourceGroups/rg-azurehero-demo-dev/providers/Microsoft.CognitiveServices/accounts/aoai-herodemo-dev/overview
-        </a>
-    </td>
-    </tr>
-    <tr>
-    <td>Search Service</td>
-    <td>
-        <a href="https://portal.azure.com/#@cloudlabsai.ms/resource/subscriptions/3f01ab49-a56f-4ee7-97fa-d23155156b42/resourceGroups/rg-azurehero-demo-dev/providers/Microsoft.Search/searchServices/srch-herodemodev/overview" target="_blank">
-          https://portal.azure.com/#@cloudlabsai.ms/resource/subscriptions/3f01ab49-a56f-4ee7-97fa-d23155156b42/resourceGroups/rg-azurehero-demo-dev/providers/Microsoft.CognitiveServices/accounts/aoai-herodemo-dev/overview
         </a>
     </td>
     </tr>
@@ -146,53 +98,6 @@
     </td>
     </tr>
     <tr>
-    <td>SQL database</td>
-    <td>
-      <a href="https://portal.azure.com/#@cloudlabsai.ms/resource/subscriptions/3f01ab49-a56f-4ee7-97fa-d23155156b42/resourceGroups/rg-azurehero-demo-dev/providers/Microsoft.Sql/servers/sqlserver-azurehero-demo/databases/sql-azurehero-demo/overview" target="_blank">
-        https://portal.azure.com/#@cloudlabsai.ms/resource/subscriptions/3f01ab49-a56f-4ee7-97fa-d23155156b42/resourceGroups/rg-azurehero-demo-dev/providers/Microsoft.Sql/servers/sqlserver-azurehero-demo/databases/sql-azurehero-demo/overview
-    </td>
-    </tr>
-    <tr>
-    <td>Azure Migrate</td>
-    <td>
-      <a href="https://portal.azure.com/#view/Microsoft_Azure_Migrate/AmhResourceMenuBlade/~/serverGoal" target="_blank">
-        https://portal.azure.com/#view/Microsoft_Azure_Migrate/AmhResourceMenuBlade/~/serverGoal
-    </td>
-    </tr>
-    <tr>
-    <td>Azure ARC</td>
-    <td>
-      <a href="https://portal.azure.com/#view/Microsoft_Azure_ArcCenterUX/ArcCenterMenuBlade/~/allresources" target="_blank">
-        https://portal.azure.com/#view/Microsoft_Azure_ArcCenterUX/ArcCenterMenuBlade/~/allresources
-    </td>
-    </tr>
-    <tr>
-    <td>Azure AKS</td>
-    <td>
-      <a href="https://portal.azure.com/#@cloudlabsai.ms/resource/subscriptions/3f01ab49-a56f-4ee7-97fa-d23155156b42/resourceGroups/rg-herodemo-002/providers/Microsoft.ContainerService/managedClusters/aks-zava/servicesAndIngresses" target="_blank">
-        https://portal.azure.com/#@cloudlabsai.ms/resource/subscriptions/3f01ab49-a56f-4ee7-97fa-d23155156b42/resourceGroups/rg-herodemo-002/providers/Microsoft.ContainerService/managedClusters/aks-zava/servicesAndIngresses
-    </td>
-    </tr>
-    <tr>
-    <td>Parts Unlimited Webapp</td>
-    <td>
-      <a href="https://portal.azure.com/#@cloudlabsai.ms/resource/subscriptions/3f01ab49-a56f-4ee7-97fa-d23155156b42/resourceGroups/rg-app-modernization-demo/providers/Microsoft.Web/sites/partsunlimited-web023/appServices" target="_blank">
-         https://portal.azure.com/#@cloudlabsai.ms/resource/subscriptions/3f01ab49-a56f-4ee7-97fa-d23155156b42/resourceGroups/rg-app-modernization-demo/providers/Microsoft.Web/sites/partsunlimited-web023/appServices
-    </td>
-    </tr>
-    <tr>
-    <td>Azure Database for PostgreSQL flexible server</td>
-    <td>
-      <a href="https://portal.azure.com/#@cloudlabsai.ms/resource/subscriptions/3f01ab49-a56f-4ee7-97fa-d23155156b42/resourceGroups/rg-app-modernization-demo/providers/Microsoft.DBforPostgreSQL/flexibleServers/zavapostgresql/overview" target="_blank">
-         https://portal.azure.com/#@cloudlabsai.ms/resource/subscriptions/3f01ab49-a56f-4ee7-97fa-d23155156b42/resourceGroups/rg-app-modernization-demo/providers/Microsoft.DBforPostgreSQL/flexibleServers/zavapostgresql/overview
-    </td>
-    </tr>
-    <td>SQL managed instance</td>
-    <td>
-      <a href="https://portal.azure.com/#@cloudlabsai.ms/resource/subscriptions/3f01ab49-a56f-4ee7-97fa-d23155156b42/resourceGroups/rg-app-modernization-demo/providers/Microsoft.Sql/managedInstances/mi-zavadb/overview" target="_blank">
-        https://portal.azure.com/#@cloudlabsai.ms/resource/subscriptions/3f01ab49-a56f-4ee7-97fa-d23155156b42/resourceGroups/rg-app-modernization-demo/providers/Microsoft.Sql/managedInstances/mi-zavadb/overview
-    </td>
-    </tr>
     <td>Azure Databricks Service</td>
     <td>
       <a href="https://adb-3978525401455147.7.azuredatabricks.net/" target="_blank">
@@ -213,28 +118,6 @@
       <a href="https://app.fabric.microsoft.com/home" target="_blank">
         https://app.fabric.microsoft.com/home
       </a>
-    </td>
-    </tr>
-    <tr>
-    <td>Microsoft Azure Portal</td>
-    <td>
-      <a href="https://portal.azure.com/#@cloudlabsai.ms/resource/subscriptions/3f01ab49-a56f-4ee7-97fa-d23155156b42/resourceGroups/rg-app-modernization-demo/overview" target="_blank">
-        https://portal.azure.com/#@cloudlabsai.ms/resource/subscriptions/3f01ab49-a56f-4ee7-97fa-d23155156b42/resourceGroups/rg-app-modernization-demo/overview
-      </a>
-    </td>
-    </tr>
-    <tr>
-    <td>Fabric Eventhouse</td>
-    <td>
-      <a href="https://app.powerbi.com/groups/644a4412-d11e-4c52-b984-e6f88ba57eca/databases/8d328e5c-61cb-479f-aac9-607374ceb5b4?experience=power-bi" target="_blank">
-        https://app.powerbi.com/groups/644a4412-d11e-4c52-b984-e6f88ba57eca/databases/8d328e5c-61cb-479f-aac9-607374ceb5b4?experience=power-bi
-    </td>
-    </tr>
-     <tr>
-    <td>Fabric Lakehouse</td>
-    <td>
-      <a href="https://app.powerbi.com/groups/644a4412-d11e-4c52-b984-e6f88ba57eca/lakehouses/98c0efdb-87e7-43f8-917e-c07695ec30cc?experience=power-bi" target="_blank">
-        https://app.powerbi.com/groups/644a4412-d11e-4c52-b984-e6f88ba57eca/lakehouses/98c0efdb-87e7-43f8-917e-c07695ec30cc?experience=power-bi
     </td>
     </tr>
   </tbody>
