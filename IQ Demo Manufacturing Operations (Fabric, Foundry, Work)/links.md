@@ -99,6 +99,14 @@
         </a>
       </td>
     </tr>
+      <tr>
+      <td>Cosmos DB</td>
+      <td>
+        <a href="https://portal.azure.com/#@cloudlabsai.ms/resource/subscriptions/506e86fc-853c-4557-a6e5-ad72114efd2b/resourceGroups/rg-IQ-demo-prod/providers/Microsoft.DocumentDB/databaseAccounts/industrial-iq-metadata/overview" target="_blank">
+          https://portal.azure.com/#@cloudlabsai.ms/resource/subscriptions/506e86fc-853c-4557-a6e5-ad72114efd2b/resourceGroups/rg-IQ-demo-prod/providers/Microsoft.DocumentDB/databaseAccounts/industrial-iq-metadata/overview
+        </a>
+      </td>
+    </tr>
     <tr>
       <td>Microsoft 365 Copilot</td>
       <td>
