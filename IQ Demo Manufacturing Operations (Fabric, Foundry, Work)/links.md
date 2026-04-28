@@ -86,8 +86,8 @@
     <tr>
       <td>Microsoft Fabric Workspace</td>
       <td>
-        <a href="https://app.powerbi.com/home?experience=fabric" target="_blank">
-          https://app.powerbi.com/home?experience=fabric
+        <a href="https://app.fabric.microsoft.com/" target="_blank">
+          https://app.fabric.microsoft.com/
         </a>
       </td>
     </tr>
