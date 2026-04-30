@@ -90,5 +90,15 @@
         </a>
     </td>
     </tr>
+    <tr>
+    <td>Microsoft Fabric Workspace</td>
+    <td>
+      <a href="https://app.fabric.microsoft.com/home" target="_blank">
+        https://app.fabric.microsoft.com/home
+      </a>
+    </td>
+    </tr>
   </tbody>
 </table>
+
+
