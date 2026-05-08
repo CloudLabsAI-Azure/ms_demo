@@ -43,7 +43,7 @@
 <div class="description">
   <h2 style="color: #333;">📄 Description</h2>
   <p>
-    <br> This demo showcase how Zava a fictitious Retail Store serving suburban communities modernizes its operations through four interconnected real-time scenarios while preserving the customer's trusted and local experience. With rising customer expectations, siloed data, aging systems, and the rapid evolution of AI, Zava turns to Microsoft’s end-to-end cloud and AI platform to fuel its next chapter of growth.  At every step, the demo showcases how Microsoft Fabric, Azure OpenAI, Microsoft Purview, Copilot, and Azure infrastructure come together to empower Zava’s teams, unlock real-time insights, and deliver smart, secure, and deeply personalized retail experiences.<br> Imagine what you can do with real-time insights, AI-powered copilots, and trusted data governance for your organization!
+    <br> This demo showcases how Zava built a secure and governed data estate using Microsoft Purview and Microsoft Fabric. Data is cataloged and organized into governance domains and data products to enable enterprise-wide discovery, lineage, and metadata management. Purview’s data quality, glossary, and governance reports help monitor data health and maintain compliance across the organization. Security is enforced through Data Loss Prevention policies, sensitivity labels, and fine-grained access controls such as Row-Level, Column-Level, and Object-Level Security in Fabric. Additionally, Microsoft Defender for Cloud and DSPM for AI provide continuous threat monitoring and AI data protection across Zava’s cloud environment.
   </p>
 </div>
 

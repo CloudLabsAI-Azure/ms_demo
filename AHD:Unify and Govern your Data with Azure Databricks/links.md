@@ -43,7 +43,7 @@
 <div class="description">
   <h2 style="color: #333;">📄 Description</h2>
   <p>
-    <br> This demo showcase how Zava a fictitious Retail Store serving suburban communities modernizes its operations through four interconnected real-time scenarios while preserving the customer's trusted and local experience. With rising customer expectations, siloed data, aging systems, and the rapid evolution of AI, Zava turns to Microsoft’s end-to-end cloud and AI platform to fuel its next chapter of growth.  At every step, the demo showcases how Microsoft Fabric, Azure OpenAI, Microsoft Purview, Copilot, and Azure infrastructure come together to empower Zava’s teams, unlock real-time insights, and deliver smart, secure, and deeply personalized retail experiences.<br> Imagine what you can do with real-time insights, AI-powered copilots, and trusted data governance for your organization!
+    <br> This demo showcases how Zava unified and governed enterprise data using Azure Databricks by ingesting operational data from sources like Microsoft SQL Server through Lakeflow Connect. Data pipelines are built using Delta Live Tables with the Medallion architecture (Bronze, Silver, Gold) to ensure scalable ingestion, transformation, and high-quality datasets. Governance and data discovery are enabled through Unity Catalog with centralized access control and lineage tracking. Developers accelerate productivity using the AI-powered Databricks Assistant for SQL generation and error diagnosis. Finally, business users explore governed datasets through AI/BI Genie using natural language queries to generate insights and visualizations without writing code.
   </p>
 </div>
 

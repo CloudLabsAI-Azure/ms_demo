@@ -44,7 +44,7 @@
 <div class="description">
   <h2 style="color: #333;">📄 Description</h2>
   <p>
-    <br> This demo showcase how Zava a fictitious Retail Store serving suburban communities modernizes its operations through four interconnected real-time scenarios while preserving the customer's trusted and local experience. With rising customer expectations, siloed data, aging systems, and the rapid evolution of AI, Zava turns to Microsoft’s end-to-end cloud and AI platform to fuel its next chapter of growth.  At every step, the demo showcases how Microsoft Fabric, Azure OpenAI, Microsoft Purview, Copilot, and Azure infrastructure come together to empower Zava’s teams, unlock real-time insights, and deliver smart, secure, and deeply personalized retail experiences.<br> Imagine what you can do with real-time insights, AI-powered copilots, and trusted data governance for your organization!
+    <br> This demonstration showcases the design, deployment, and orchestration of AI-powered hosted agents using the Microsoft Foundry Agent Service. It provides a technical walkthrough on creating and managing agents, integrating tools and APIs, and enabling multi-agent workflows for business use cases such as customer support and loyalty management. The use case highlights secure governance, scalability, and real-time execution, serving as a blueprint for building and managing production-ready AI agents in an enterprise environment.
   </p>
 </div>
 

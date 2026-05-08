@@ -43,7 +43,7 @@
 <div class="description">
   <h2 style="color: #333;">📄 Description</h2>
   <p>
-    <br> This demo showcase how Zava a fictitious Retail Store serving suburban communities modernizes its operations through four interconnected real-time scenarios while preserving the customer's trusted and local experience. With rising customer expectations, siloed data, aging systems, and the rapid evolution of AI, Zava turns to Microsoft’s end-to-end cloud and AI platform to fuel its next chapter of growth.  At every step, the demo showcases how Microsoft Fabric, Azure OpenAI, Microsoft Purview, Copilot, and Azure infrastructure come together to empower Zava’s teams, unlock real-time insights, and deliver smart, secure, and deeply personalized retail experiences.<br> Imagine what you can do with real-time insights, AI-powered copilots, and trusted data governance for your organization!
+    <br> Fabric Data Science Agent transforms Zava’s raw customer and operational data into predictive, AI-driven insights by automating the "explore-model-predict-act" cycle. It eliminates manual complexity by leveraging Copilot-powered notebooks, unified Lakehouse data, and MLflow for end-to-end model lifecycle management. By combining scalable Spark processing with AI-assisted code generation and advanced models like LightGBM, it enables rapid churn prediction, customer segmentation, and personalized recommendations—empowering teams to proactively improve retention, optimize revenue strategies, and operationalize machine learning at scale.
   </p>
 </div>
 
