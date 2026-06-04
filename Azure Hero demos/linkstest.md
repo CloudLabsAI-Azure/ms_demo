@@ -54,7 +54,7 @@
   If unauthorized errors occur, wait a few minutes and then press <strong>Ctrl + Shift + R</strong> to refresh.<br>
   Databricks may take around <strong>30–40 minutes</strong> to become available to the ODL user. This is due to Databricks default behavior of syncing users every 40 minutes.<br>
   For Microsoft Fabric, once you login with the ODL user, please wait <strong>5 minutes</strong> and refresh the screen to see the Workspaces.<br>
-  Databricks may take around <strong>30–40 minutes</strong> to become available to the ODL user. This is due to Databricks default behavior of syncing users every 40 minutes
+<strong> Note </strong> If you face any issues while accessing the demo environment, please reach out to <strong> mdxazuredemosupport@spektrasystems.com </strong> and include the ODL username displayed in your lab environment details for faster assistance. 
 </div>
 
 <!-- Auth Table -->
