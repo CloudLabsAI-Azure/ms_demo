@@ -52,7 +52,12 @@
   <strong>IMPORTANT:</strong><br>
   Please launch the demo <strong>15 minutes before presenting</strong>. Resources may take a few minutes to provision.<br>
   ODL access provisioning may take <strong>5–7 minutes</strong>.<br>
-  If unauthorized errors occur, wait a few minutes and then press <strong>Ctrl + Shift + R</strong> to refresh.
+  If unauthorized errors occur, wait a few minutes and then press <strong>Ctrl + Shift + R</strong> to refresh.<br>
+  For Microsoft Fabric, once you login with the ODL user, please wait <strong>5 minutes</strong> and refresh the screen to see the Workspaces.<br>
+  <span style="color:red; font-weight:bold;">Note:</span>
+  If you face any issues while accessing the demo environment, please reach out to
+  <a href="mailto:mdxazuredemosupport@spektrasystems.com">mdxazuredemosupport@spektrasystems.com</a>
+  and include the ODL username displayed in your lab environment details for faster assistance.
 </div>
 
 <!-- Auth Table -->
