@@ -45,7 +45,7 @@
 <div class="description">
   <h2 style="color: #333;">📄 Description</h2>
   <p>
-    Caldova is accelerating the launch of its next-generation injectable product while overcoming manufacturing capacity and operational challenges by building a unified AI-powered enterprise. Using Microsoft Foundry, Copilot Studio, GitHub, Microsoft Fabric, and Microsoft IQ, the organization rapidly develops, deploys, and governs intelligent agents that are grounded in trusted enterprise data and integrated with business workflows. This enables teams to move from insights to secure, real-time actions while ensuring governance, compliance, and scalability across the entire AI agent ecosystem.
+    Caldova builds agents across every function — but scaling a fleet is where most lose the thread: drift, rebuilds, governance gaps. Caldova's answer: build agents from everywhere across the Microsoft ecosystem – from Foundry to Copilot Studio, to GitHub Copilot — with shared intelligence and one way to manage all agents across the company. Three demos. One complete story. Innovate across your company — and manage them at scale.
   </p>
   
 </div>
