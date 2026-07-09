@@ -88,10 +88,18 @@
       </td>
     </tr>
     <tr>
-      <td>Microsoft Foundry</td>
+      <td>Microsoft Foundry 1</td>
       <td>
-        <a href="https://ai.azure.com/nextgen/r/UG6G_IU8RVem5a1yEU79Kw,rg-IQ-demo-prod,,foundry-retail-iq-prod,proj-retail-iq-prod/home" target="_blank">
-          https://ai.azure.com/nextgen/r/UG6G_IU8RVem5a1yEU79Kw,rg-IQ-demo-prod,,foundry-retail-iq-prod,proj-retail-iq-prod/home
+        <a href="https://ai.azure.com/nextgen/r/UG6G_IU8RVem5a1yEU79Kw,rg-ai-platform-prod-001,,foundry-ops-cx-prod,proj-ops-cx-prod/home" target="_blank">
+          https://ai.azure.com/nextgen/r/UG6G_IU8RVem5a1yEU79Kw,rg-ai-platform-prod-001,,foundry-ops-cx-prod,proj-ops-cx-prod/home
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>Microsoft Foundry 2</td>
+      <td>
+        <a href="https://ai.azure.com/nextgen/r/UG6G_IU8RVem5a1yEU79Kw,rg-ops-intelligence-prod-001,,foundry-ops-intelligence-prod-001,proj-ops-intelligence-prod-001/home" target="_blank">
+          https://ai.azure.com/nextgen/r/UG6G_IU8RVem5a1yEU79Kw,rg-ops-intelligence-prod-001,,foundry-ops-intelligence-prod-001,proj-ops-intelligence-prod-001/home
         </a>
       </td>
     </tr>
