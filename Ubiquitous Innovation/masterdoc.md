@@ -1,6 +1,6 @@
 [
   {
-    "Name": "Microsoft Fabric 4.0 DREAM Demo",
+    "Name": "Ubiquitous Innovation",
     "Language": "English",
     "BaseURL": "https://github.com/CloudLabsAI-Azure/ms_demo",
     "Files": [
