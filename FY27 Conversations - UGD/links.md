@@ -88,18 +88,10 @@
       </td>
     </tr>
     <tr>
-      <td>Microsoft Foundry 1</td>
+      <td>Microsoft Foundry</td>
       <td>
-        <a href="https://ai.azure.com/nextgen/r/UG6G_IU8RVem5a1yEU79Kw,rg-ai-platform-prod-001,,foundry-ops-cx-prod,proj-ops-cx-prod/home" target="_blank">
-          https://ai.azure.com/nextgen/r/UG6G_IU8RVem5a1yEU79Kw,rg-ai-platform-prod-001,,foundry-ops-cx-prod,proj-ops-cx-prod/home
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td>Microsoft Foundry 2</td>
-      <td>
-        <a href="https://ai.azure.com/nextgen/r/UG6G_IU8RVem5a1yEU79Kw,rg-ops-intelligence-prod-001,,foundry-ops-intelligence-prod-001,proj-ops-intelligence-prod-001/home" target="_blank">
-          https://ai.azure.com/nextgen/r/UG6G_IU8RVem5a1yEU79Kw,rg-ops-intelligence-prod-001,,foundry-ops-intelligence-prod-001,proj-ops-intelligence-prod-001/home
+        <a href="https://ai.azure.com/nextgen/r/UG6G_IU8RVem5a1yEU79Kw,rg-unified-data-estate-prod,,foundry-unified-intelligence-prod-001,proj-unified-intelligence-prod-001/home" target="_blank">
+          https://ai.azure.com/nextgen/r/UG6G_IU8RVem5a1yEU79Kw,rg-unified-data-estate-prod,,foundry-unified-intelligence-prod-001,proj-unified-intelligence-prod-001/home
         </a>
       </td>
     </tr>
