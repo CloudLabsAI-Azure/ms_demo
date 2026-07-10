@@ -78,14 +78,6 @@
   </thead>
   <tbody>
     <tr>
-      <td>Demo Web App</td>
-      <td>
-        <a href="https://app-azureherodreamdemos.azurewebsites.net/" target="_blank">
-          https://app-azureherodreamdemos.azurewebsites.net/
-        </a>
-      </td>
-    </tr>
-    <tr>
     <td>Microsoft Foundry Scenario 1a</td>
     <td>
         <a href="https://ai.azure.com/resource/build/redteaming?wsid=/subscriptions/3f01ab49-a56f-4ee7-97fa-d23155156b42/resourceGroups/rg-azurehero-demo-dev/providers/Microsoft.CognitiveServices/accounts/proj-azure-hero-demo-1a-resource/projects/proj-azure-hero-demo-1a-dev&tid=f94768c8-8714-4abe-8e2d-37a64b18216a" target="_blank">

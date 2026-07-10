@@ -77,14 +77,6 @@
   </thead>
   <tbody>
     <tr>
-      <td>Demo Web App</td>
-      <td>
-        <a href="https://app-azureherodreamdemos.azurewebsites.net/" target="_blank">
-          https://app-azureherodreamdemos.azurewebsites.net/
-        </a>
-      </td>
-    </tr>
-    <tr>
     <td>Microsoft Fabric Workspace</td>
     <td>
       <a href="https://app.fabric.microsoft.com/home" target="_blank">

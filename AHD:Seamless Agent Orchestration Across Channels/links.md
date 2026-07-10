@@ -78,14 +78,6 @@
   </thead>
   <tbody>
     <tr>
-      <td>Demo Web App</td>
-      <td>
-        <a href="https://app-azureherodreamdemos.azurewebsites.net/" target="_blank">
-          https://app-azureherodreamdemos.azurewebsites.net/
-        </a>
-      </td>
-    </tr>
-    <tr>
     <td>Microsoft Foundry Scenario 1a</td>
     <td>
         <a href="https://ai.azure.com/?tid=f94768c8-8714-4abe-8e2d-37a64b18216a" target="_blank">

@@ -77,14 +77,6 @@
   </thead>
   <tbody>
     <tr>
-      <td>Demo Web App</td>
-      <td>
-        <a href="https://app-azureherodreamdemos.azurewebsites.net/" target="_blank">
-          https://app-azureherodreamdemos.azurewebsites.net/
-        </a>
-      </td>
-    </tr>
-    <tr>
     <td>Azure Cosmos DB account</td>
     <td>
       <a href="https://portal.azure.com/#@cloudlabsai.ms/resource/subscriptions/3f01ab49-a56f-4ee7-97fa-d23155156b42/resourceGroups/rg-azurehero-demo-dev/providers/Microsoft.DocumentDb/databaseAccounts/cosmosdb-herodemo-001/overview" target="_blank">

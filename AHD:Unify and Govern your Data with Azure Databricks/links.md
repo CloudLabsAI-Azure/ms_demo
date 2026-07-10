@@ -78,14 +78,6 @@
   </thead>
   <tbody>
     <tr>
-      <td>Demo Web App</td>
-      <td>
-        <a href="https://app-azureherodreamdemos.azurewebsites.net/" target="_blank">
-          https://app-azureherodreamdemos.azurewebsites.net/
-        </a>
-      </td>
-    </tr>
-    <tr>
     <td>Microsoft Foundry Scenario 2</td>
     <td>
         <a href="https://ai.azure.com/resource/agentsList?wsid=/subscriptions/3f01ab49-a56f-4ee7-97fa-d23155156b42/resourceGroups/rg-azurehero-demo-dev/providers/Microsoft.CognitiveServices/accounts/prj-aifoundry-aibigenie-resource/projects/prj-aifoundry-aibigenie&tid=f94768c8-8714-4abe-8e2d-37a64b18216a#Threads" target="_blank">
