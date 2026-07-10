@@ -45,7 +45,11 @@
 <div class="description">
   <h2 style="color: #333;">📄 Description</h2>
   <p>
-    Caldova builds agents across every function — but scaling a fleet is where most lose the thread: drift, rebuilds, governance gaps. Caldova's answer: build agents from everywhere across the Microsoft ecosystem – from Foundry to Copilot Studio, to GitHub Copilot — with shared intelligence and one way to manage all agents across the company. Three demos. One complete story. Innovate across your company — and manage them at scale.
+    Caldova has approved an accelerated Next Gen Pharma launch, and a competitor is targeting the same November launch window. The VP of Manufacturing needs one answer: can Caldova close a 7% capacity gap across three plants in time? This end-to-end demo follows that question from a single grounded agent to a governed fleet of agents.
+
+First, Jordan, the Data Engineer, grounds a supply chain intelligence agent already running in Foundry and published to M365 Copilot across four Microsoft IQ dimensions - Fabric IQ for the live manufacturing ontology and competitive products data, Web IQ for cited market intelligence, Foundry IQ for GMP SOPs and changeover guidance, and Work IQ for the escalation path. Sam, the Operations Lead, gets cited, permission-aware answers in seconds to questions that used to take three days.
+Next, when a second agent is needed to evaluate Contract Manufacturing Organizations(CMOs) that can close the gap fast, Jordan builds it in Foundry on the same Fabric IQ ontology, Foundry IQ knowledge base, Work IQ, and Web IQ - no new connectors, no new RAG - while Alex, the Procurement Manager, spins up a low-code CMO RFP tracking agent in Copilot Studio on the same intelligence. Two agents, almost no incremental cost, proving agent development now compounds rather than restarts.
+Six weeks in, the fleet has grown to four agents making real decisions on shared Microsoft IQ. From a single control plane in Agent 365, the IT compliance lead turns sprawl into a governed portfolio - shadow agents surfaced, each agent carrying its own Entra ID, permission-scoped answers per user, and Purview blocking restricted R&D content while briefings stay complete and compliant. One set of policies covers every agent, and each new agent inherits that trust posture the moment it goes live. The foundation is modernized, the data is unified, agents are deployed across every function, and intelligence is grounded and compounding - trusted enough for leadership to bet the launch on it. That is how Caldova closed the gap.
   </p>
   
 </div>
@@ -88,15 +92,7 @@
       </td>
     </tr>
     <tr>
-      <td>Microsoft Foundry 1</td>
-      <td>
-        <a href="https://ai.azure.com/nextgen/r/UG6G_IU8RVem5a1yEU79Kw,rg-ai-platform-prod-001,,foundry-ops-cx-prod,proj-ops-cx-prod/home" target="_blank">
-          https://ai.azure.com/nextgen/r/UG6G_IU8RVem5a1yEU79Kw,rg-ai-platform-prod-001,,foundry-ops-cx-prod,proj-ops-cx-prod/home
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td>Microsoft Foundry 2</td>
+      <td>Microsoft Foundry</td>
       <td>
         <a href="https://ai.azure.com/nextgen/r/UG6G_IU8RVem5a1yEU79Kw,rg-ops-intelligence-prod-001,,foundry-ops-intelligence-prod-001,proj-ops-intelligence-prod-001/home" target="_blank">
           https://ai.azure.com/nextgen/r/UG6G_IU8RVem5a1yEU79Kw,rg-ops-intelligence-prod-001,,foundry-ops-intelligence-prod-001,proj-ops-intelligence-prod-001/home
