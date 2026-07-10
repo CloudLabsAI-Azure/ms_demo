@@ -1,11 +1,11 @@
 [
   {
-    "Name": "Microsoft Fabric 4.0 DREAM Demo",
+    "Name": "FY27 Conversations - UGD",
     "Language": "English",
     "BaseURL": "https://github.com/CloudLabsAI-Azure/ms_demo",
     "Files": [
       {
-        "RawFilePath": "https://raw.githubusercontent.com/CloudLabsAI-Azure/ms_demo/refs/heads/main/links.md",
+        "RawFilePath": "https://raw.githubusercontent.com/CloudLabsAI-Azure/ms_demo/refs/heads/main/FY27%20Conversations%20-%20UGD/links.md",
         "Order": 0
       }
     ]
