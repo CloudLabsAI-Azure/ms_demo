@@ -45,7 +45,7 @@
 <div class="description">
   <h2 style="color: #333;">📄 Description</h2>
   <p>
-    Caldova builds agents across every function — but scaling a fleet is where most lose the thread: drift, rebuilds, governance gaps. Caldova's answer: build agents from everywhere across the Microsoft ecosystem – from Foundry to Copilot Studio, to GitHub Copilot — with shared intelligence and one way to manage all agents across the company. Three demos. One complete story. Innovate across your company — and manage them at scale.
+    Caldova is modernizing its infrastructure, applications, data, and AI capabilities oin Azure to reduce operational complexity, unlock new efficiencies, and accelerate innovation. Rather than treating AI as a separate initiative, Caldova is building a unified Data and AI estate where Microsoft Fabric serves as the trusted data platform, and Microsoft Foundry serves as the enterprise AI platform. Together, they enable the organization to build, govern, and scale intelligent agents grounded in trusted business context, helping teams move from insight to action faster while delivering measurable business outcomes
   </p>
   
 </div>
