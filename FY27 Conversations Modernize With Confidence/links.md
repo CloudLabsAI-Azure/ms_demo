@@ -45,7 +45,7 @@
 <div class="description">
   <h2 style="color: #333;">📄 Description</h2>
   <p>
-    Caldova builds agents across every function — but scaling a fleet is where most lose the thread: drift, rebuilds, governance gaps. Caldova's answer: build agents from everywhere across the Microsoft ecosystem – from Foundry to Copilot Studio, to GitHub Copilot — with shared intelligence and one way to manage all agents across the company. Three demos. One complete story. Innovate across your company — and manage them at scale.
+    Caldova, a pharmaceutical company preparing for a critical product launch, must rapidly transform its legacy VMware infrastructure, .NET applications, and on-premises databases into a secure, scalable, AI-ready Azure environment. Across the modernization journey, cloud architects, developers, database administrators, and IT operators use AI-powered agents and GitHub Copilot to assess and migrate existing workloads, modernize applications and data platforms, build new cloud-native and AI-enabled experiences, and operate the environment with resilience, security, and cost efficiency. From initial discovery and planning through development, deployment, and ongoing operations, the solution demonstrates how organizations can accelerate modernization, streamline collaboration, and confidently adopt AI at scale.
   </p>
   
 </div>
