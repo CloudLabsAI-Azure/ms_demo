@@ -103,5 +103,13 @@
         </a>
       </td>
     </tr>
+    <tr>
+      <td>Microsoft 365 Copilot</td>
+      <td>
+        <a href="https://m365.cloud.microsoft/" target="_blank">
+          https://m365.cloud.microsoft/
+        </a>
+      </td>
+    </tr>
   </tbody>
 </table>
