@@ -99,5 +99,21 @@ Six weeks in, the fleet has grown to four agents making real decisions on shared
         </a>
       </td>
     </tr>
+    <tr>
+      <td>Microsoft 365 Copilot</td>
+      <td>
+        <a href="https://m365.cloud.microsoft/" target="_blank">
+          https://m365.cloud.microsoft/
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>Copilot Studio</td>
+      <td>
+        <a href="https://copilotstudio.preview.microsoft.com/" target="_blank">
+          https://copilotstudio.preview.microsoft.com/
+        </a>
+      </td>
+    </tr>
   </tbody>
 </table>
