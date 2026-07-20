@@ -80,7 +80,7 @@
   </thead>
   <tbody>
     <tr>
-      <td>Microsoft Fabric Workspace</td>
+      <td>Microsoft Fabric</td>
       <td>
         <a href="https://app.fabric.microsoft.com/" target="_blank">
           https://app.fabric.microsoft.com/
