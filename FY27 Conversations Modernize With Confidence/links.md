@@ -80,10 +80,10 @@
   </thead>
   <tbody>
     <tr>
-      <td>Microsoft Fabric Workspace</td>
+      <td>Microsoft Azure</td>
       <td>
-        <a href="https://app.fabric.microsoft.com/" target="_blank">
-          https://app.fabric.microsoft.com/
+        <a href="https://portal.azure.com/" target="_blank">
+          https://portal.azure.com/
         </a>
       </td>
     </tr>
